@@ -1,3 +1,5 @@
 #March 22, 2025
 #MSOC - Request # 75044
 8.222.138.22
+#Oracle SQL Injection Attempt
+23.95.218.243
