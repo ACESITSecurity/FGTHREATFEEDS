@@ -47,3 +47,6 @@
 196.241.66.194
 #MSOC - Request # 75152 #Remote Code Execution
 172.178.91.84
+#MSOC - Request # 75165
+188.126.89.35
+149.112.112.112
