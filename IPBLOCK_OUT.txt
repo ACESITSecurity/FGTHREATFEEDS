@@ -53,8 +53,12 @@
 #MSOC - Request # 75252
 79.142.79.9
 #March 26, 2025 
-MSOC Request # - 75267
+#MSOC Request # 75267
 172.64.150.50
 104.18.37.206
-MSOC Request # - 75289
+#MSOC Request # 75289
 35.186.224.26
+#MSOC - Request # 75309
+175.176.30.22
+#MSOC - Request # 75322
+175.176.46.133
