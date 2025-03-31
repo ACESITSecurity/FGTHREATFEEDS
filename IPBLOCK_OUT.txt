@@ -83,5 +83,3 @@
 20.65.193.158
 #MSOC - Request # 75530
 38.32.156.13
-#IBM QRADAR Detected # March 31 2025 9:13AM - Web Exploit
-195.225.22.53
