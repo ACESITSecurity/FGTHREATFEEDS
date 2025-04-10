@@ -468,3 +468,5 @@
 #April 10, 2025
 #MSOC - SDP Request # 76376
 175.176.23.46
+#MSOC - SDP Request # 76412
+65.49.1.56
