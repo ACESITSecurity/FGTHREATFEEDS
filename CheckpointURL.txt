@@ -1,0 +1,18 @@
+#Allowed Checkpoint URL
+eu-west-1.allowed-ips.checkpoint.com
+eu-west-2.allowed-ips.checkpoint.com
+checkpoint.com
+cloudinfra-gw.portal.checkpoint.com
+cws.checkpoint.com
+dl3.checkpoint.com
+epmgmt.checkpoint.com
+ftp-proxy.checkpoint.com
+gwevents.checkpoint.com
+iaas.checkpoint.com
+pointer-record-us-east-1.epmgmt.checkpoint.com
+rep.checkpoint.com
+sc1.checkpoint.com
+secureupdates.checkpoint.com
+teadv.checkpoint.com
+updates.checkpoint.com
+web-rep.checkpoint.com
