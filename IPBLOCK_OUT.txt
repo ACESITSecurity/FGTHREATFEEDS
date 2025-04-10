@@ -470,3 +470,8 @@
 #April 10, 2025
 #MSOC - SDP Request # 76376
 175.176.23.46
+#MSOC - Request # 76412
+65.49.1.56
+#MSOC - April 10 Mindy
+185.12.59.118
+185.189.182.234
