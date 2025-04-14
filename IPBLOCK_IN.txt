@@ -3012,10 +3012,10 @@
 14.103.236.102
 20.171.29.66
 #April 14, 2025 - Ward
-Public IPs Globe Blocked
+#Public IPs Globe Blocked
 154.81.156.40
 18.222.198.12
 185.12.59.118
 185.40.4.51
-IDS/IPS Filter
+#IDS/IPS Filter
 82.0.107.78
