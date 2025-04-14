@@ -3017,3 +3017,5 @@ Public IPs Globe Blocked
 18.222.198.12
 185.12.59.118
 185.40.4.51
+IDS/IPS Filter
+82.0.107.78
