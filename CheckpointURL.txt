@@ -16,3 +16,4 @@ secureupdates.checkpoint.com
 teadv.checkpoint.com
 updates.checkpoint.com
 web-rep.checkpoint.com
+#TEST
