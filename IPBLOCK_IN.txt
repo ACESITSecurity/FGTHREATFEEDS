@@ -60,7 +60,6 @@
 64.62.156.94
 #IBM QRADAR Detected # March 31 2025 10:44AM - Remote Code Execution
 35.195.46.0
-23.95.218.243
 #MSOC - Request # 75621
 138.197.150.30
 64.62.197.68
@@ -156,7 +155,6 @@
 139.144.52.241
 #April 6 Block
 20.169.85.114
-23.95.218.243
 #MSOC - Request # 76168
 47.83.5.14
 #QRADAR - Request # 76173
