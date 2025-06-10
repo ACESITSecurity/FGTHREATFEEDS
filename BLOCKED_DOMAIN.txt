@@ -8,3 +8,5 @@ epicunitscan.info
 ip-api.com
 sub.pretty-fly4.net
 ap4fmgn9a.accounts.ondemand.com
+#June 10 - Hans Case ID 902079
+airdrop.initia.xyz
