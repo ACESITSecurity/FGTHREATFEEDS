@@ -1,11 +1,11 @@
-﻿name,value,type,confidence,severity,product,comment
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,1.1.1.1,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,162.159.61.4,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,172.22.0.210,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,172.64.41.4,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,208.67.222.222,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,9.9.9.9,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,223.5.5.5,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,223.6.6.6,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,94.140.14.14,IP,High,High,AV,
-DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,104.16.249.249,IP,High,High,AV,
+﻿name,value,type,severity,product,comment
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,1.1.1.1,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,162.159.61.4,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,172.22.0.210,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,172.64.41.4,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,208.67.222.222,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,9.9.9.9,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,223.5.5.5,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,223.6.6.6,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,94.140.14.14,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
+DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol,104.16.249.249,IP,High,AV,DNS.Over.HTTPS - This indicates an attempt to use the DNS over HTTPS protocol
