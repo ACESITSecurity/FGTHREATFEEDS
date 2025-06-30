@@ -7,7 +7,7 @@ vin1.pbs.ovhnextmillmedia.com
 epicunitscan.info 
 ip-api.com
 sub.pretty-fly4.net
-ap4fmgn9a.accounts.ondemand.com
+#ap4fmgn9a.accounts.ondemand.com
 #June 10 - Hans Case ID 902079
 airdrop.initia.xyz
 #June 17 - Hans Case ID 910147
