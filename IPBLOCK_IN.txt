@@ -4850,11 +4850,11 @@
 118.123.1.123
 #July 01 - Hans SDP#83083 IDS/IPS
 167.94.146.63
-#July 01 - Ward SDP#83099 Network Sweep
+#July 01 - Ward SDP#83099 IDS/IPS
 154.194.249.124
-#July 02 - Ward SDP#83101 Network Sweep
+#July 02 - Ward SDP#83101 IDS/IPS
 47.88.58.68
-#July 02 - Ward SDP#83103 Network Sweep
+#July 02 - Ward SDP#83103 IDS/IPS
 160.30.108.196
 175.6.105.208
 #July 02 - Paul
