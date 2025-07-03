@@ -4905,6 +4905,7 @@
 206.168.34.74
 #July 03 - Hans SDP#83383 Network Sweep
 172.81.61.42
-
+#July 03 - Ben SDP#83393 IDS/IPS
+172.81.61.42
 
 
