@@ -4903,5 +4903,8 @@
 #July 03 - Hans SDP#83375 IDS/IPS
 206.168.34.119
 206.168.34.74
+#July 03 - Hans SDP#83383 Network Sweep
+172.81.61.42
+
 
 
