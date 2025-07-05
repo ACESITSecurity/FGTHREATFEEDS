@@ -4952,3 +4952,6 @@
 #July 5 - lorenzo (IDS/IPS)
 64.62.156.124
 8.34.210.46
+#July 5 - Ward 83551 Network Sweep
+20.124.93.218
+8.152.211.133
