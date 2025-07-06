@@ -5002,3 +5002,6 @@
 #July 6 - Hans SDP# 83623 IDS/IPS
 206.168.34.84
 162.142.125.200
+#July 6 - Hans SDP# 83624 Network Sweep
+93.123.109.35
+
