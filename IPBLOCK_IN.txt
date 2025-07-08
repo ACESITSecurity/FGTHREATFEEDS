@@ -5070,6 +5070,7 @@
 #July 7 - Hans SDP# 83881 IDS / IPS
 167.94.138.51
 206.168.34.83
-
+#July 8 - Hans SDP# 83882 Network Sweep
+3.82.215.16
 
 
