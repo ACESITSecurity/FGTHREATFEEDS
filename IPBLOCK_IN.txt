@@ -5082,6 +5082,8 @@
 #July 9 - Ward SDP# 83897 IDS / IPS
 167.94.138.206
 206.168.34.48
+#July 9 - Ward SDP# 83920 IDS / IPS
+206.168.34.41
 #July 9 - Hans SDP# 83963 Network Sweep
 47.245.127.111
 #July 9 - Hans SDP# 84022 Network Sweep
