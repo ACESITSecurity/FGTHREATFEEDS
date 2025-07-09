@@ -5088,4 +5088,5 @@
 188.213.197.123
 #July 9 - Ward SDP# 84027 Network Sweep
 103.162.25.106
-
+#July 9 - Ward SDP# 84025 IDS / IPS
+64.62.197.41
