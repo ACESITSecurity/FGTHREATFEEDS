@@ -5117,3 +5117,9 @@
 #July 10 - Paul (IDS / IPS)
 20.127.219.109
 167.94.145.101
+#July 10 - Hans SDP# 84122 Network Sweep
+123.249.103.190
+#July 10 - Hans SDP# 84138 IDS/IPS
+54.248.164.116
+
+
