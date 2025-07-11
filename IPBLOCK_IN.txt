@@ -5150,5 +5150,5 @@
 #July 11 - Ben SDP# 84295  Network Sweep
 15.235.227.163
 54.221.118.197
-
-
+#July 11 - Ben SDP# 84298 IDS/IPS
+206.168.34.204
