@@ -5143,3 +5143,6 @@
 #July 11 - Andrew SDP# 84257 Network Sweep
 54.196.228.31
 47.236.127.241
+#July 11 - Ben SDP# 84286 IDS/IPS
+5.175.205.244
+
