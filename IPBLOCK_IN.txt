@@ -5138,6 +5138,17 @@
 207.90.244.24
 #July 11 - Ben SDP# 84187 Network Sweep
 106.14.224.185
+#July 11 - Paul (IDS / IPS)
+206.168.34.214
+178.128.18.12
+#July 11 - Paul (Network Sweep)
+193.36.84.114
+171.251.17.199
+180.251.159.254
+153.122.10.143
+47.94.22.101
+116.62.12.166
+47.239.3.25
 #July 11 - Andrew SDP# 84246 Network Sweep
 195.182.25.40
 #July 11 - Andrew SDP# 84257 Network Sweep
