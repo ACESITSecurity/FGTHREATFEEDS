@@ -5177,3 +5177,5 @@
 47.236.234.108
 #July 11 - Paul SDP# 84315  Network Sweep
 60.205.122.184
+#July 11 - Paul SDP# 84319  IDS/IPS
+10.2.31.104
