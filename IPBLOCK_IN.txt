@@ -5207,3 +5207,5 @@
 #July 13 - Troy SDP# 84363 IDS/IPS
 167.94.138.36
 162.142.125.199
+#July 13 - Troy SDP# 84362 Network Sweep
+27.156.4.206
