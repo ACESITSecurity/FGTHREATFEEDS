@@ -5217,3 +5217,6 @@
 34.207.126.45
 #July 13 - Troy SDP# 84376 IDS/IPS
 167.94.138.52
+#July 13 - Hans SDP# 84378 Network Sweep
+152.32.243.122
+
