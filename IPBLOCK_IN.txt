@@ -5234,6 +5234,9 @@
 #July 13 - Hans SDP# 84391 Network Sweep
 218.207.24.26
 61.216.166.31
+#July 13 - Hans SDP# 84392 IDS/IPS
+167.94.146.48
+
 
 
 
