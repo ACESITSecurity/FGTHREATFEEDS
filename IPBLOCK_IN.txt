@@ -5255,7 +5255,7 @@
 20.84.153.199
 #July 14 - Hans SDP# 84518 Network Sweep
 185.240.102.120
-#July 14 - Hans SDP# 84522 Network Sweep
+#July 15 - Ward SDP# 84522 Network Sweep
 193.142.146.168
 
 
