@@ -5240,4 +5240,7 @@
 47.252.52.203
 #July 14 - Ward SDP# 84407 Network Sweep
 8.217.39.220
+#July 14 - Hans SDP# 84461 IDS/IPS
+199.45.154.119
+
 
