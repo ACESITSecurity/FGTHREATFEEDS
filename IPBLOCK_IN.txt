@@ -5245,5 +5245,8 @@
 #July 14 - Ben SDP# 84460 Network Sweep
 138.124.30.225
 169.211.208.28
+#July 14 - Hans SDP# 84487 IDS/IPS
+64.62.156.134
+
 
 
