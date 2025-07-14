@@ -5240,7 +5240,10 @@
 47.252.52.203
 #July 14 - Ward SDP# 84407 Network Sweep
 8.217.39.220
-#July 14 - Hans SDP# 84461 IDS/IPS
+#July 14 - Ben SDP# 84461 IDS/IPS
 199.45.154.119
+#July 14 - Ben SDP# 84460 Network Sweep
+138.124.30.225
+169.211.208.28
 
 
