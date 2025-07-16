@@ -5271,3 +5271,17 @@
 64.23.249.58
 #July 16 - Ward SDP# 84663 Network Sweep
 47.236.141.254
+#July 16 - Paul SDP# 84675 IDS/IPS
+152.42.251.84
+#July 16 - Paul SDP# 84705 IDS/IPS
+206.168.34.47
+162.142.125.43
+167.94.138.117
+#July 16 - Paul SDP# 84671 Network Sweep
+202.165.14.77
+#July 16 - Paul SDP# 84674 Network Sweep
+117.72.214.108
+#July 16 - Paul SDP# 84719 Network Sweep
+159.65.145.112
+#July 16 - Paul SDP# 84728 Network Sweep
+47.245.13.28
