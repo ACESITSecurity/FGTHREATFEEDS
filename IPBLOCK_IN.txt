@@ -5336,3 +5336,5 @@
 162.142.125.198
 #July 18 - Andrew SDP# 85037 Network Sweep
 52.14.122.207
+#July 18 - Andrew SDP# 85043 Network Sweep
+77.105.130.55
