@@ -5384,5 +5384,7 @@
 211.154.27.25
 #July 19 - Paul SDP# 85105 IDS/IPS
 184.73.109.159
+#July 19 - Ward SDP# 85114 Network Sweep
+124.71.151.104
 #July 19 - Lorenzo SDP# 85087 Network Sweep
 211.154.24.115
