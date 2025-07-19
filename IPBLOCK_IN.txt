@@ -5405,3 +5405,5 @@
 167.94.138.200
 #July 20 - Adrian SDP# 85142 IDS/IPS
 20.168.0.218
+#July 20 - Adrian SDP# 85143 Network Sweep
+49.42.83.6
