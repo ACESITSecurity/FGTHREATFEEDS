@@ -5441,3 +5441,5 @@
 47.79.40.164
 #July 21 - Ward SDP# 85189 Network Sweep
 178.128.32.203
+#July 21 - Ward SDP# 85197 Network Sweep
+196.251.92.2
