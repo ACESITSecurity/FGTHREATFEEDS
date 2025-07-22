@@ -5484,7 +5484,7 @@
 64.62.156.136
 #July 22 - Hans SDP# 85737 Network Sweep
 8.218.57.135
-#July 22 - Ward SDP# 85744 Network Sweep
+#July 23 - Ward SDP# 85744 Network Sweep
 176.65.150.18
 #July 23 - Ward SDP# 85745 IDS/IPS
 206.168.34.66
