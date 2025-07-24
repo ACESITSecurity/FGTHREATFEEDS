@@ -5520,11 +5520,11 @@
 128.203.203.233
 #July 24 - Ward SDP# 86024 Network Sweep
 103.161.180.17
-#July 22 - Paul SDP# 86026 Network Sweep
+#July 24 - Paul SDP# 86026 Network Sweep
 116.110.120.66
-#July 22 - Paul SDP# 86036 Network Sweep
+#July 24 - Paul SDP# 86036 Network Sweep
 213.209.143.176
-#July 22 - Paul SDP# 86036 Network Sweep
+#July 24 - Paul SDP# 86036 Network Sweep
 213.209.143.176
-#July 22 - Paul SDP# 86036 IDS / IPS
+#July 24 - Paul SDP# 86036 IDS / IPS
 167.94.145.108
