@@ -5551,3 +5551,6 @@
 20.168.7.236
 #July 25 - Paul SDP# 86220 IDS / IPS
 167.94.145.107
+#July 25 - Paul SDP# 86243 Network Sweep
+54.160.242.47
+
