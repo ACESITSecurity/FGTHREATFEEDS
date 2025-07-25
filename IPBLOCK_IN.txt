@@ -5551,6 +5551,9 @@
 20.168.7.236
 #July 25 - Paul SDP# 86220 IDS / IPS
 167.94.145.107
-#July 25 - Paul SDP# 86243 Network Sweep
+#July 25 - Andrew SDP# 86243 Network Sweep
 54.160.242.47
+#July 25 - Andrew SDP# 86258 Network Sweep
+160.16.137.28
+34.226.139.66
 
