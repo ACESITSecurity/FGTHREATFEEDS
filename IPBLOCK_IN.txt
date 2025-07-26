@@ -5564,3 +5564,14 @@
 124.230.167.28
 #July 26 - Ben SDP# 86293 Network Sweep
 202.70.76.5
+#July 26 - Paul SDP# 86301 Network Sweep
+79.124.62.230
+74.81.54.149
+#July 26 - Paul SDP# 86303 Network Sweep
+85.154.136.90
+34.228.39.156
+79.124.62.230
+#July 26 - Paul SDP# 86302 IDS / IPS
+199.45.154.135
+#July 26 - Paul SDP# 86304 IDS / IPS
+88.218.18.44
