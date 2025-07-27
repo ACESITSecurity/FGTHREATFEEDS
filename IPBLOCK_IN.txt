@@ -5593,3 +5593,5 @@
 8.218.181.22
 #July 27 - Ward SDP# 86342 IDS / IPS
 101.126.132.95
+#July 27 - Troy SDP# 86355 Network Sweep
+116.105.208.52
