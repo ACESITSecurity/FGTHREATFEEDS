@@ -5601,5 +5601,8 @@
 192.53.123.118
 #July 27 - Hans SDP# 86378 IDS / IPS
 20.163.15.97
+#July 27 - Hans SDP# 86387 Network Sweep
+183.98.235.67
+
 
 
