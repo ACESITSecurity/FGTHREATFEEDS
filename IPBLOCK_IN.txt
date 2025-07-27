@@ -5595,3 +5595,5 @@
 101.126.132.95
 #July 27 - Troy SDP# 86355 Network Sweep
 116.105.208.52
+#July 27 - Troy SDP# 86361 IDS / IPS
+47.245.83.162
