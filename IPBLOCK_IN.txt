@@ -5665,3 +5665,5 @@
 #July 30 - Ward SDP# 86676 Network Sweep
 207.90.244.21
 45.78.197.1
+#July 30 - Ward SDP# 86678 Network Sweep
+159.203.108.39
