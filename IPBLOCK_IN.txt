@@ -5640,3 +5640,13 @@
 45.78.196.30
 #July 29 - Ward SDP# 86563 Network Sweep
 47.237.126.162
+#July 29 - Paul SDP# 86565 Network Sweep
+116.110.116.66
+106.15.203.206
+#July 29 - Paul SDP# 86579 Network Sweep
+112.126.71.2
+13.221.12.149
+#July 29 - Paul SDP# 86605 Network Sweep
+64.225.127.241
+#July 29 - Paul SDP# 86610 Network Sweep
+83.222.190.190
