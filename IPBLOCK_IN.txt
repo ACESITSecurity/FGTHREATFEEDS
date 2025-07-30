@@ -5721,7 +5721,7 @@
 #July 30 - Ward SDP# 86795 Network Sweep
 196.57.217.2
 47.238.232.66
-#July 30 - Ward SDP# 86801 Network Sweep
+#July 31 - Ward SDP# 86801 Network Sweep
 43.160.251.55
-#July 30 - Ward SDP# 86808 Network Sweep
+#July 31 - Ward SDP# 86808 Network Sweep
 103.167.89.236
