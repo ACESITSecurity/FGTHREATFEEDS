@@ -5727,3 +5727,9 @@
 103.167.89.236
 #July 31 - Ward SDP# 86811 IDS / IPS
 66.228.34.203
+#Exploiting Direct Send: Attackers Abuse Microsoft 365 to Deliver Internal Phishing Attacks
+163.5.112.86
+163.5.160.28
+163.5.160.119
+163.5.160.143
+163.5.169.53
