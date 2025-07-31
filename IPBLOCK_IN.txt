@@ -5749,3 +5749,5 @@
 173.249.48.231
 #July 31 - Andrew SDP# 86920 IDS / IPS
 20.163.15.91
+#August 1 - Hans SDP# 86922 Network Sweep
+101.132.193.192
