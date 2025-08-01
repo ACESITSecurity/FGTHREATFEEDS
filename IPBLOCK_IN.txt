@@ -5771,3 +5771,6 @@
 136.144.35.7
 #July 31 - Lorenzo SDP# 87056 IDS / IPS
 45.33.65.239
+#July 31 - Lorenzo SDP# 87063 Network Sweep
+194.180.48.63
+47.108.168.70
