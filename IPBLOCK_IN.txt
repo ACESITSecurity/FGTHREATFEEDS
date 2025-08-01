@@ -5753,3 +5753,12 @@
 66.228.42.204
 #August 1 - Andrew SDP# 86936 Network Sweep
 8.140.240.241
+#July 31 - Paul SDP# 86940 Network Sweep
+116.110.1.105
+116.110.121.181
+83.222.190.66
+#July 31 - Paul SDP# 86950 Network Sweep
+59.56.73.141
+43.229.153.33
+#August 1 - Paul SDP# 86982 IDS / IPS
+64.62.197.60
