@@ -5779,3 +5779,16 @@
 #August 2 - Andrew SDP# 87073 Network Sweep
 143.110.183.86
 173.33.102.240
+#August 2 - Paul SDP# 87081 Network Sweep
+116.105.208.12
+#August 2 - Paul SDP# 87082 Network Sweep
+79.124.62.230
+77.90.185.90
+#August 2  - Paul SDP# 87088 Network Sweep
+121.37.219.205
+3.94.115.13
+79.124.62.134
+8.138.0.113
+79.124.62.230
+#August 2 - Paul SDP# 87080 IDS / IPS
+38.211.193.130
