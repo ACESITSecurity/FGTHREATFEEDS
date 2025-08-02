@@ -5802,3 +5802,5 @@
 89.248.165.108
 #August 2 - lorenzo SDP# 87100 Network Sweep
 83.222.191.2
+#August 2 - lorenzo SDP# 87105 IDS / IPS
+8.34.210.51
