@@ -5847,7 +5847,7 @@
 20.168.123.1
 #August 4 - Ward SDP# 87180 IDS / IPS
 174.138.30.172
-#August 4 - Ward SDP# 87180 Network Sweep
+#August 4 - Ward SDP# 87188 Network Sweep
 36.189.255.162
 #August 4 - Ward SDP# 87190 Network Sweep
 193.32.162.44
