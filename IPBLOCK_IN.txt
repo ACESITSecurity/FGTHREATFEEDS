@@ -5826,3 +5826,5 @@
 134.209.95.237
 #August 2 - Adrian SDP# 87150 Network Sweep
 52.90.92.30
+#August 2 - Adrian SDP# 87151 IDS / IPS
+20.62.193.105
