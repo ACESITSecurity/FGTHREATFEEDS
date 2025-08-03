@@ -5824,3 +5824,5 @@
 8.138.206.71
 #August 2 - Adrian SDP# 87147 Network Sweep
 134.209.95.237
+#August 2 - Adrian SDP# 87150 Network Sweep
+52.90.92.30
