@@ -5869,3 +5869,6 @@
 #August 4 - Adrian SDP# 87269 Network Sweep
 207.90.244.28
 106.75.176.89
+#August 4 - Hans SDP# 87282 IDS / IPS
+23.95.193.164
+
