@@ -5851,10 +5851,11 @@
 36.189.255.162
 #August 4 - Ward SDP# 87190 Network Sweep
 193.32.162.44
-#August 3 - Adrian SDP# 87192 Network Sweep
+#August 4 - Adrian SDP# 87192 Network Sweep
 116.110.13.47
-#August 3 - Adrian SDP# 87201 Network Sweep
+#August 4 - Adrian SDP# 87201 Network Sweep
 142.111.51.70
 143.92.37.165
 171.92.13.182
-
+#August 4 - Adrian SDP# 87221 Network Sweep
+54.234.12.0
