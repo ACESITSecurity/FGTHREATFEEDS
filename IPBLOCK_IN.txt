@@ -5896,3 +5896,15 @@
 162.142.125.115
 #August 5 - Paul 
 194.180.48.0
+#August 5 - Paul SDP# 87350 Network Sweep
+148.178.22.60
+#August 5 - Paul SDP# 87353 Network Sweep
+116.110.14.46
+34.228.41.182
+#August 5 - Paul SDP# 87356 Network Sweep
+104.156.155.9
+#August 5 - Paul SDP# 87398 Network Sweep
+47.120.8.168
+#August 5 - Paul SDP# 87410 Network Sweep
+101.201.61.225
+46.161.27.54
