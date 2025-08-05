@@ -5924,3 +5924,5 @@
 34.166.132.44
 #August 6 - Ward SDP# 87475 IDS / IPS
 20.29.24.16
+#August 6 - Ward SDP# 87491 Network Sweep
+39.106.12.36
