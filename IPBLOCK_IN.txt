@@ -5931,4 +5931,10 @@
 116.110.78.227
 #August 6 - Hansa SDP# 87591 IDS / IPS
 34.68.34.68
+#August 6 - Hans SDP# 87592 Network Sweep
+117.72.114.221
+#August 6 - Hans SDP# 87659 Network Sweep
+58.251.5.36
+
+
 
