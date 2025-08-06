@@ -5929,6 +5929,18 @@
 204.236.195.187
 #August 6 - Paul SDP# 87496 Network Sweep
 116.110.78.227
+#August 6 - Paul SDP# 87544 Network Sweep
+3.82.99.229
+#August 6 - Paul SDP# 87560 Network Sweep
+128.199.118.9
+#August 6 - Paul SDP# 87566 Network Sweep
+159.223.142.182
+79.124.62.230
+#August 6 - Paul SDP# 87577 Network Sweep
+47.81.8.178
+159.223.142.182
+#August 5 - Paul SDP# 87507 IDS / IPS
+97.107.131.17
 #August 6 - Hansa SDP# 87591 IDS / IPS
 34.68.34.68
 
