@@ -5951,3 +5951,10 @@
 162.142.125.121
 #August 7 - Ward SDP# 87742 Network Sweep
 170.64.155.84
+#August 7 - Paul SDP# 87749 Network Sweep
+134.209.44.109
+196.251.85.128
+#August 7 - Paul SDP# 87755 Network Sweep
+116.110.81.31
+#August 7 - Paul SDP# 87762 Network Sweep
+81.10.79.203
