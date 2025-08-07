@@ -5964,3 +5964,6 @@
 #August 7 - Paul SDP# 87807 Network Sweep
 120.26.243.133
 45.78.192.86
+#August 7 - Paul SDP# 87817 Network Sweep
+13.220.156.229
+45.142.193.107
