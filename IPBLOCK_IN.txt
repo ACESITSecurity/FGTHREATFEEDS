@@ -5958,3 +5958,6 @@
 116.110.81.31
 #August 7 - Paul SDP# 87762 Network Sweep
 81.10.79.203
+#August 7 - Paul SDP# 87756 IDS / IPS
+162.142.125.38
+45.79.152.14
