@@ -5995,3 +5995,5 @@
 #August 9 - Ward SDP# 88212 Network Sweep
 116.110.24.137
 47.236.17.1
+#August 9 - Ward SDP# 88245 Network Sweep
+20.65.219.72
