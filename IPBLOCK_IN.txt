@@ -6002,8 +6002,6 @@
 #August 9 - Ward SDP# 88300 IDS / IPS
 10.2.72.90
 174.138.92.134
-#August 9 - Ward SDP# 88328 Network Sweep
-10.2.72.95
 #August 9 - Ward SDP# 88191 Network Sweep
 141.94.184.82
 #August 9 - Ward SDP# 88198 Network Sweep
@@ -6025,6 +6023,8 @@
 54.89.190.133
 #August 9 - Ward SDP# 88313 Network Sweep
 191.13.136.179
+#August 10 - Ward SDP# 88328 IDS / IPS
+10.2.72.95
 #August 10 - Ward SDP# 88333 Network Sweep
 124.220.71.194
 #August 10 - Ward SDP# 88355 Network Sweep
