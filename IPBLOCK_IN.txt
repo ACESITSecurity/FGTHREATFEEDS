@@ -5986,6 +5986,8 @@
 34.19.127.205
 #August 8 - Paul SDP# 88029 IDS / IPS
 20.163.15.93
+#August 8 - Ward SDP# 88095 IDS / IPS
+199.45.155.67
 #August 8 - Ward SDP# 88117 IDS / IPS
 167.94.138.125
 #August 8 - Ward SDP# 88127 Network Sweep
@@ -6011,8 +6013,6 @@
 54.89.190.133
 #August 9 - Ward SDP# 88313 Network Sweep
 191.13.136.179
-#August 8 - Ward SDP# 88095 IDS / IPS
-199.45.155.67
 #August 10 - Ward SDP# 88333 Network Sweep
 124.220.71.194
 #August 10 - Ward SDP# 88355 Network Sweep
