@@ -6053,3 +6053,6 @@
 52.55.19.35
 #August 10 - Ward SDP# 88441 Network Sweep
 8.210.238.247
+#August 11 - Hans SDP# 88474 IDS / IPS
+179.43.161.226
+
