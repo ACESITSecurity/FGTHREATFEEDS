@@ -6066,3 +6066,7 @@
 170.64.171.156
 #August 11 - Paul SDP# 88511 Network Sweep
 190.92.243.48
+#August 11 - Paul SDP# 88530 Network Sweep
+34.81.207.51
+106.15.203.206
+157.245.131.45
