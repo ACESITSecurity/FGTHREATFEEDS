@@ -6072,5 +6072,5 @@
 157.245.131.45
 #August 11 - Paul SDP# 88559 Network Sweep
 44.211.155.182
-#August 11 - Ward SDP# 88603 IDS / IPS
+#August 11 - Ward SDP# 88588 IDS / IPS
 64.62.197.150
