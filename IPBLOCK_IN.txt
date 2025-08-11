@@ -6059,6 +6059,8 @@
 196.251.71.76
 #August 11 - Hans SDP# 88513 Network Sweep
 13.221.145.49
-
+#August 11 - Paul SDP# 88488 Network Sweep
+47.242.198.64
+116.110.13.133
 
 
