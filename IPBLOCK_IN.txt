@@ -6113,3 +6113,6 @@
 45.236.131.47
 #August 13 - Hans SDP# 88901 Network Sweep
 196.251.86.239
+#August 13 - Hans SDP# 88940 Network Sweep
+47.236.169.168
+47.236.253.239
