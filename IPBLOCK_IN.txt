@@ -6192,3 +6192,6 @@
 45.156.130.40
 #August 15 - Hans SDP# 89369  IDS / IPS
 185.196.11.98
+#August 15 - Hans SDP# 89381  IDS / IPS
+20.65.202.2
+
