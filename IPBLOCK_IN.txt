@@ -6153,3 +6153,9 @@
 207.180.206.112
 #August 14 - Paul SDP# 89172  Network Sweep
 116.99.171.182
+#August 14 - Paul SDP# 89172  Network Sweep
+213.226.127.209
+#August 14 - Paul SDP# 89203  Network Sweep
+213.226.127.209
+#August 14 - Paul SDP# 89202  IDS / IPS
+78.153.140.151
