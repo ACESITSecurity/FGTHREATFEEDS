@@ -6249,3 +6249,14 @@
 114.116.224.151
 #August 16 - Paul SDP# 89704 Network Sweep
 165.154.205.80
+#August 17 - Paul SDP# 89720 Network Sweep
+120.48.1.61
+#August 17 - Paul SDP# 89747 Network Sweep
+27.79.45.65
+45.250.252.135
+#August 17 - Paul SDP# 89753 Network Sweep
+78.128.114.38
+#August 17 - Paul SDP# 89791 Network Sweep
+119.188.245.54
+#August 17 - Paul SDP# 89801 Network Sweep
+117.72.32.238
