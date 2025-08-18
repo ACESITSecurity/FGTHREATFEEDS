@@ -6265,3 +6265,5 @@
 #August 18 - Hans SDP# 89849 IDS / IPS
 50.19.125.12
 52.3.22.67
+#August 18 - Hans SDP# 89855 IDS / IPS
+52.70.50.247
