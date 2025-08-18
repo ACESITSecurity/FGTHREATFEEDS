@@ -6288,3 +6288,5 @@
 3.83.60.94
 #August 18 - Hans SDP# 89962 Network Sweep
 103.153.68.246
+#August 18 - Ward SDP# 89980 Network Sweep
+85.154.17.1
