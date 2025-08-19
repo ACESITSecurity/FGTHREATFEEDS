@@ -6308,4 +6308,6 @@
 #August 19 - Hans SDP# 90054 Network Sweep
 47.88.30.94
 171.243.151.197
+#August 19 - Hans SDP# 90043 IDS / IPS
+217.217.252.19
 
