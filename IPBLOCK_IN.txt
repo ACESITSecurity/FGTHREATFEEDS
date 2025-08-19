@@ -6305,4 +6305,7 @@
 179.43.152.42
 #August 19 - Hans SDP# 90047 Network Sweep
 176.65.148.173
+#August 19 - Hans SDP# 90054 Network Sweep
+47.88.30.94
+171.243.151.197
 
