@@ -6316,5 +6316,7 @@
 138.68.91.238
 #August 19 - Ward SDP# 90173 Network Sweep
 143.198.196.195
-#August 19 - Hans SDP# 90214 IDS / IPS
+#August 20 - Hans SDP# 90214 IDS / IPS
 206.168.34.197
+#August 20 - Hans SDP# 90241 IDS / IPS
+206.168.34.46
