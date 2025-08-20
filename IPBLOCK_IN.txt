@@ -6320,3 +6320,5 @@
 206.168.34.197
 #August 20 - Hans SDP# 90241 IDS / IPS
 206.168.34.46
+#August 20 - Hans SDP# 90219 Network Sweep
+3.82.151.82
