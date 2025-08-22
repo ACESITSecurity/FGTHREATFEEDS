@@ -6366,3 +6366,5 @@
 115.190.30.226
 #August 21 - Hans SDP# 90413 IDS / IPS
 199.45.155.103
+#August 22 - Hans SDP# 90517 Network Sweep
+94.102.49.25
