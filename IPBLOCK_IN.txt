@@ -6350,3 +6350,6 @@
 199.204.99.86
 #August 21 - Ward SDP# 90381 Network Sweep
 3.90.66.8
+54.90.176.188
+#August 21 - Ward SDP# 90407 Network Sweep
+47.237.2.240
