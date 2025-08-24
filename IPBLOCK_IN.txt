@@ -6393,3 +6393,6 @@
 110.10.147.244
 #August 23 - Ward SDP# 90667 Network Sweep
 200.105.141.172
+#August 23 - Ward SDP# 90680 Network Sweep
+54.225.30.110
+
