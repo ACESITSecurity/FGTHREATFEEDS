@@ -6408,6 +6408,8 @@
 54.225.30.110
 #August 23 - Ward SDP# 90685 Network Sweep
 45.61.184.133
+#August 23 - Ward SDP# 90703 Network Sweep
+46.17.96.38
 #August 24 - Ward SDP# 90765 IDS / IPS
 167.94.138.38
 #August 24 - Ward SDP# 90782 IDS / IPS
