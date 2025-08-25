@@ -6469,3 +6469,6 @@
 #August 25 - Ward SDP# 90923 Network Sweep
 60.50.127.59
 77.89.249.210
+#August 26 - Paul SDP# 90931 Network Sweep
+103.124.94.61
+47.251.14.27
