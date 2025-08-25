@@ -6430,3 +6430,5 @@
 100.25.216.250
 #August 24 - Ward SDP# 90777 Network Sweep
 171.243.148.184
+#August 24 - Ward SDP# 90779 Network Sweep
+114.96.104.77
