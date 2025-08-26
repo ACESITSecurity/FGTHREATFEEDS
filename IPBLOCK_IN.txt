@@ -6483,3 +6483,5 @@
 194.233.83.146
 #August 26 - Hans SDP# 90899 IDS / IPS
 160.30.188.242
+#August 26 - Paul SDP# 91037 Network Sweep
+47.239.189.170
