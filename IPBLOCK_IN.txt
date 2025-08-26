@@ -6474,3 +6474,5 @@
 47.251.14.27
 #August 26 - Paul SDP# 90950 Network Sweep
 171.243.150.47
+#August 26 - Paul SDP# 90926 IDS / IPS
+199.45.154.152
