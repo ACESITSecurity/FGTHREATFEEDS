@@ -6485,3 +6485,13 @@
 160.30.188.242
 #August 26 - Paul SDP# 91037 Network Sweep
 47.239.189.170
+#August 27 - Paul SDP# 91048 Network Sweep
+49.0.239.21
+#August 27 - Paul SDP# 91059 Network Sweep
+194.180.49.199
+#August 27 - Paul SDP# 91076 Network Sweep
+82.129.226.38
+#August 27 - Paul SDP# 91104 Network Sweep
+189.240.82.82
+#August 27 - Paul SDP# 91126 Network Sweep
+103.161.173.69
