@@ -6517,3 +6517,11 @@
 107.189.28.60
 #August 28 - Paul SDP# 91296 IDS / IPS
 66.175.211.202
+#August 28 - Paul SDP# 91257 Network Sweep
+66.240.192.82
+#August 28 - Paul SDP# 91281 Network Sweep
+45.221.64.242
+#August 28 - Paul SDP# 91288 Network Sweep
+95.214.52.169
+#August 28 - Paul SDP# 91365 Network Sweep
+207.90.244.26
