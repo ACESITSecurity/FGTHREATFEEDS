@@ -6529,3 +6529,7 @@
 64.62.197.100
 #August 28 - Paul SDP# 91384 Network Sweep
 52.206.191.99
+#August 28 - Ward SDP# 91486 Network Sweep
+196.251.116.196
+27.79.42.171
+78.128.114.130
