@@ -6554,3 +6554,5 @@
 147.93.158.187
 #August 30 - Hans SDP# 91688 IDS / IPS
 65.49.1.115
+#August 30 - Hans SDP# 91693 Network Sweep
+3.83.212.182
