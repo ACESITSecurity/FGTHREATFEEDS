@@ -6574,3 +6574,5 @@
 8.34.210.53
 #August 31 - Hans SDP# 91767 IDS / IPS
 192.168.78.195
+#August 31 - Hans SDP# 91766 Network Sweep
+154.94.19.197
