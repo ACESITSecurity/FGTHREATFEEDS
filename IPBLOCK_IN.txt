@@ -6576,3 +6576,5 @@
 192.168.78.195
 #August 31 - Hans SDP# 91766 Network Sweep
 154.94.19.197
+#September 1 - Hans SDP# 91797 Network Sweep
+159.75.149.54
