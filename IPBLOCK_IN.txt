@@ -6616,3 +6616,5 @@
 157.245.238.172
 #September 2 - Paul SDP# 92097 IDS / IPS
 122.188.31.12
+#September 2 - Ward SDP# 92146 Network Sweep
+222.83.114.172
