@@ -6589,3 +6589,5 @@
 106.54.235.227
 #September 1 - Hans SDP# 92008 IDS / IPS
 65.49.1.227
+#September 1 - Hans SDP# 92005 Network Sweep
+34.67.65.47
