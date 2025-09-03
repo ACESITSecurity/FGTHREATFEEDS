@@ -564,5 +564,7 @@
 165.22.74.138
 #August 4 - Adrian SDP# 87220 IDS/IPS
 172.240.108.76
+#September 3 Temporary block - PAUL
+104.26.15.87
 
 
