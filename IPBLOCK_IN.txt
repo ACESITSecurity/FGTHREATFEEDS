@@ -6622,3 +6622,6 @@
 65.49.1.207
 #September 2 - Hans SDP# 92167 Network Sweep
 167.71.102.181
+#September 2 - Hans SDP# 92164 Network Sweep
+160.191.236.26
+192.168.1.10
