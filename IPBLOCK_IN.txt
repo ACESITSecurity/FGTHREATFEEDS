@@ -6629,3 +6629,5 @@
 103.13.215.45
 #September 3 - Hans SDP# 92219 IDS / IPS
 40.124.172.146
+#September 3 - Hans SDP# 92211 Network Sweep
+45.135.193.2
