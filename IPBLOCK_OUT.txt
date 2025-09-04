@@ -566,5 +566,6 @@
 172.240.108.76
 #September 3 Temporary block - PAUL
 104.26.15.87
-
+#September 4 - Paul SDP# 92489 IDS / IPS
+13.248.148.254
 
