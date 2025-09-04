@@ -6665,3 +6665,5 @@
 #September 4 - Paul SDP# 92470 IDS / IPS
 206.168.34.38
 167.94.138.189
+#September 4 - Paul SDP# 92480 IDS / IPS
+106.75.84.37
