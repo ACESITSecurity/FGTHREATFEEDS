@@ -6645,3 +6645,5 @@
 91.237.163.112
 #September 3 - Hans SDP# 92374 Network Sweep
 47.237.104.168
+#September 3 - Hans SDP# 92363 Network Sweep
+139.59.170.85
