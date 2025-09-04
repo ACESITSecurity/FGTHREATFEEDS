@@ -6652,3 +6652,5 @@
 #September 4 - Hans SDP# 92411 Network Sweep
 212.33.202.129
 41.226.27.251
+#September 4 - Hans SDP# 92394 Network Sweep
+139.196.218.159
