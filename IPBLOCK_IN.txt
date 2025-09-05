@@ -6671,3 +6671,5 @@
 13.221.72.159
 #September 4 - Hans SDP# 92513 Network Sweep
 154.83.12.25
+#September 5 - Hans SDP# 92594 Network Sweep
+1.94.228.39
