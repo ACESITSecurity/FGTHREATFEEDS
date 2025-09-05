@@ -6675,3 +6675,7 @@
 1.94.228.39
 #September 5 - Paul SDP# 92637 Network Sweep
 20.18.136.151
+#September 5 - Paul SDP# 92637 Network Sweep
+35.200.201.144
+#September 5 - Paul SDP# 92650 Network Sweep
+103.186.49.200
