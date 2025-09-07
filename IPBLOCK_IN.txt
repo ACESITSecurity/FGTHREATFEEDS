@@ -6681,6 +6681,8 @@
 103.186.49.200
 #September 5 - Ward SDP# 92664 IDS / IPS
 199.45.154.136
+#September 5 - Ward SDP# 92713 IDS / IPS
+64.62.156.106
 #September 5 - Ward SDP# 92663 Network Sweep
 82.96.169.51
 #September 5 - Ward SDP# 92686 Network Sweep
