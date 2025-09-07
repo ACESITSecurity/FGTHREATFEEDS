@@ -6711,3 +6711,5 @@
 47.251.99.212
 #September 7 - Ward SDP# 92888 Network Sweep
 47.237.96.241
+#September 7 - Ward SDP# 92893 Network Sweep
+152.136.133.172
