@@ -6743,3 +6743,5 @@
 65.49.1.158
 #September 7 - Ward SDP# 92923 IDS / IPS
 20.65.194.119
+#September 7 - Ward SDP# 92941 IDS / IPS
+111.247.1.131
