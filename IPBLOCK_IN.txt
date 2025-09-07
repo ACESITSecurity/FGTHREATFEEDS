@@ -6697,3 +6697,5 @@
 #September 6 - Ward SDP# 92801 Network Sweep
 13.222.49.110
 47.237.15.38
+#September 6 - Ward SDP# 92821 Network Sweep
+8.130.84.198
