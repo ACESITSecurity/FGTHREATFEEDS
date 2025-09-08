@@ -6753,3 +6753,6 @@
 85.154.146.203
 #September 8 - Paul SDP# 92996 Network Sweep
 45.78.192.92
+#September 8 - Paul SDP# 93020 IDS / IPS
+184.105.247.252
+206.168.34.77
