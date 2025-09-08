@@ -6756,3 +6756,5 @@
 #September 8 - Paul SDP# 93020 IDS / IPS
 184.105.247.252
 206.168.34.77
+#September 8 - Paul SDP# 93041 IDS / IPS
+131.161.28.149
