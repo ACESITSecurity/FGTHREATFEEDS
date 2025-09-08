@@ -6751,3 +6751,5 @@
 103.30.67.198
 #September 8 - Hans SDP# 92945 Network Sweep
 85.154.146.203
+#September 8 - Paul SDP# 92996 Network Sweep
+45.78.192.92
