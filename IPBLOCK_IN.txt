@@ -6835,3 +6835,5 @@
 47.122.40.252
 #September 12 - Paul SDP# 93717 IDS / IPS
 20.118.217.73
+#September 12 - Paul SDP# 93736 IDS / IPS
+64.62.156.156
