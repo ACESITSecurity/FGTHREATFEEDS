@@ -6845,3 +6845,6 @@
 134.209.150.36
 #September 12 - Paul SDP# 93763 IDS / IPS
 199.45.155.84
+#September 13 - Paul SDP# 93856 Network Sweep
+3.93.215.69
+8.222.170.38
