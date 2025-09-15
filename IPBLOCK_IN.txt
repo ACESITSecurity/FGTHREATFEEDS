@@ -6913,3 +6913,5 @@
 68.183.80.103
 #September 14 - Paul SDP# 94087 IDS / IPS
 64.62.197.214
+#September 14 - Paul SDP# 94095 IDS / IPS
+68.183.87.74
