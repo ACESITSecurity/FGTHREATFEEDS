@@ -6917,3 +6917,8 @@
 68.183.87.74
 #September 15 - Paul SDP# 94110 IDS / IPS
 34.195.72.85
+#September 15 - Hans SDP# 94146 IDS / IPS
+147.93.157.77
+
+
+
