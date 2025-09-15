@@ -6895,3 +6895,5 @@
 #September 15 - Hans SDP# 94030 Network Sweep
 36.80.25.202
 116.110.4.232
+#September 15 - Hans SDP# 94024 Network Sweep
+116.177.172.104
