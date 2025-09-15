@@ -6907,5 +6907,7 @@
 47.98.253.22
 #September 15 - Hans SDP# 93996 Network Sweep
 114.67.68.219
-#September 15 - Paul SDP# 94040etwork Sweep
+#September 15 - Paul SDP# 94040 Network Sweep
 8.155.35.40
+#September 15 - Paul SDP# 94058 Network Sweep
+68.183.80.103
