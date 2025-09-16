@@ -6928,8 +6928,8 @@
 #September 15 - Hans SDP# 94136 Network Sweep
 85.144.225.2
 14.33.125.161
-
-
+#September 16 - Ward SDP# 94277 Network Sweep
+184.152.99.244
 
 
 
