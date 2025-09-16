@@ -6932,3 +6932,5 @@
 184.152.99.244
 #September 16 - Ward SDP# 94268 IDS / IPS
 20.169.105.81
+#September 16 - Ward SDP# 94276 IDS / IPS
+64.62.197.122
