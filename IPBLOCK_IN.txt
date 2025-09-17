@@ -6975,6 +6975,8 @@
 86.4.211.136
 #September 17- Paul SDP# 94431 IDS / IPS
 133.18.110.50
+#September 17 - Paul SDP# 94491 Network Sweep
+47.76.128.162
 
 
 
