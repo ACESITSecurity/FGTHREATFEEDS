@@ -7008,7 +7008,8 @@
 118.220.149.121
 #September 18- Hans SDP# 94697 IDS / IPS
 206.168.34.40
-
+#September 18- Hans SDP# 94705 IDS / IPS
+20.65.195.33
 
 
 
