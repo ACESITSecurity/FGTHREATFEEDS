@@ -570,6 +570,5 @@
 13.248.148.254
 #September 19 - Hans SDP# 94832 IDS / IPS
 208.91.112.55
-#September 19 - Hans SDP# 94832 IDS / IPS
-213.238.207.109
+
 
