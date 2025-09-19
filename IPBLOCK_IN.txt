@@ -7013,11 +7013,22 @@
 #September 18- Hans SDP# 94735 IDS / IPS
 86.54.31.38
 #September 18 - Hans SDP# 94766 Network Sweep
-78.128.114.126
 115.190.54.120
 193.32.162.205
 #September 18 - Hans SDP# 94757 Network Sweep
 206.123.145.4
+#September 18 - Hans SDP# 94749 Network Sweep
+192.168.2.34
+#September 18 - Hans SDP# 94740 Network Sweep
+79.124.62.230
+#September 19 - Hans SDP# 94789 Network Sweep
+142.93.135.131
+
+
+
+
+
+
 
 
 
