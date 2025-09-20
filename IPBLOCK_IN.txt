@@ -7032,10 +7032,20 @@
 167.94.145.101
 #September 19 - Hans SDP# 94832 IDS / IPS
 213.238.207.109
-#September 19 - Hnas SDP# 94844 Network Sweep
+#September 19 - Hans SDP# 94844 Network Sweep
 54.173.87.180
-#September 19 - Hnas SDP# 94952 Network Sweep
+#September 19 - Hans SDP# 94952 Network Sweep
 212.181.205.191
+#September 19 - Hans SDP# 94947 Network Sweep
+198.23.242.50
+
+
+
+
+
+
+
+
 
 
 
