@@ -7058,3 +7058,5 @@
 54.221.2.44
 #September 20 - Ward SDP# 95026 Network Sweep
 8.219.6.107
+#September 21 - Ward SDP# 95055 Network Sweep
+31.59.58.141
