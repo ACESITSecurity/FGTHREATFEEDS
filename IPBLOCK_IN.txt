@@ -7115,6 +7115,17 @@
 24.199.126.56
 #September 23 - Hans SDP# 95308 Network Sweep
 185.244.36.140
+#September 23 - Paul SDP# 95337 Network Sweep
+171.231.192.206
+#September 23 - Paul SDP# 95354 Network Sweep
+123.143.12.102
+#September 23 - Paul SDP# 95401 Network Sweep
+221.207.55.165
+#September 23 - Paul SDP# 95405 Network Sweep
+160.191.245.36
+#September 23 - Paul SDP# 95410 IDS / IPS
+167.94.146.53
+
 
 
 
