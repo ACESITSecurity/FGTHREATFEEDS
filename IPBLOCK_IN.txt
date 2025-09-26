@@ -7176,3 +7176,5 @@
 116.99.174.200
 #September 26 - Paul SDP# 95939 IDS / IPS
 65.49.1.84
+#September 26 - Hans SDP# 95915 Network Sweep
+79.124.62.126
