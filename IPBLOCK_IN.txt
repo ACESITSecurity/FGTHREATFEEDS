@@ -7159,8 +7159,8 @@
 161.35.227.122
 #September 25 - Paul SDP# 95728 IDS / IPS
 65.49.1.163
-
-
+#September 25 - Hans SDP# 95870 IDS / IPS
+206.168.34.42
 
 
 
