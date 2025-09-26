@@ -7161,8 +7161,8 @@
 65.49.1.163
 #September 25 - Hans SDP# 95870 IDS / IPS
 206.168.34.42
-
-
+#September 25 - Hans SDP# 95861 IDS / IPS
+66.132.153.124
 
 
 
