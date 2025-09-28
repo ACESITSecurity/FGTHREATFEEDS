@@ -7197,3 +7197,6 @@
 64.62.197.215
 #September 26 - Paul SDP# 96022 Network Sweep
 79.124.56.162
+#September 26 - Paul SDP# 96027 Network Sweep
+101.100.171.241
+128.111.1.41
