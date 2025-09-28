@@ -7182,16 +7182,16 @@
 8.153.17.134
 #September 26 - Hans SDP# 95890 Network Sweep
 185.133.213.86
-#September 26 - Paul SDP# 95976 Network Sweep
+#September 28 - Paul SDP# 95976 IDS / IPS
 8.129.28.185
-#September 26 - Paul SDP# 96023 Network Sweep
+#September 28 - Paul SDP# 96023 IDS / IPS
 66.132.153.130
 162.142.125.215
-#September 26 - Paul SDP# 96067 Network Sweep
+#September 28 - Paul SDP# 96067 IDS / IPS
 199.45.155.90
-#September 26 - Paul SDP# 96083 Network Sweep
+#September 28 - Paul SDP# 96083 IDS / IPS
 34.19.127.219
-#September 26 - Paul SDP# 96108 Network Sweep
+#September 28 - Paul SDP# 96108 IDS / IPS
 135.119.112.132
-#September 26 - Paul SDP# 96115 Network Sweep
+#September 28 - Paul SDP# 96115 IDS / IPS
 64.62.197.215
