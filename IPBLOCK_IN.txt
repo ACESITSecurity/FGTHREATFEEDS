@@ -7247,3 +7247,5 @@
 54.204.78.246
 #September 30 - Paul SDP# 96405 Network Sweep
 222.96.14.76
+#September 30 - Paul SDP# 96414 Network Sweep
+160.25.73.40
