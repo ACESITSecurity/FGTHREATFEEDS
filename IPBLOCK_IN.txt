@@ -7280,7 +7280,8 @@
 #October 1 - Paul SDP# 96760 IDS / IPS
 51.158.173.124
 51.158.173.123
-
+#October 1 - Paul SDP# 96754 Network Sweep
+142.90.0.245
 
 
 
