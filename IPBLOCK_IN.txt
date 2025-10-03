@@ -7327,5 +7327,7 @@
 66.132.153.143
 #October 3 - Paul SDP# 97065 IDS / IPS
 77.237.247.183
-#October 3 - Paul SDP# 97054 IDS / IPS
+#October 3 - Paul SDP# 97054 Network Sweep
 68.183.207.213
+#October 3 - Paul SDP# 97080 Network Sweep
+186.116.1.220
