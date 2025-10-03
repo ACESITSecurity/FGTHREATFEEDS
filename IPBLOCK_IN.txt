@@ -7325,7 +7325,8 @@
 218.201.139.52
 #October 3 - Hans SDP# 97035 IDS / IPS
 66.132.153.143
-
+#October 3 - Paul SDP# 97065 IDS / IPS
+77.237.247.183
 
 
 
