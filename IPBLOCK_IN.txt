@@ -7323,8 +7323,8 @@
 #October 3 - Hans SDP# 97029 Network Sweep
 47.243.115.50
 218.201.139.52
-
-
+#October 3 - Hans SDP# 97035 IDS / IPS
+66.132.153.143
 
 
 
