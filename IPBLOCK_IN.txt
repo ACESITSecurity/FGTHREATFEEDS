@@ -7333,3 +7333,5 @@
 186.116.1.220
 #October 3 - Paul SDP# 97092 Network Sweep
 170.64.146.7
+#October 3 - Paul SDP# 97104 Network Sweep
+47.254.0.169
