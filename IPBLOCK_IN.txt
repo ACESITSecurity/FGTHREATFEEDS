@@ -7366,3 +7366,5 @@
 #October 5 - Ward SDP# 97354 Network Sweep
 159.138.129.235
 192.171.62.226
+#October 5 - Ward SDP# 97316 Network Sweep
+187.235.201.213
