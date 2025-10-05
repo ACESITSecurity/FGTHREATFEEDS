@@ -7372,3 +7372,5 @@
 54.205.111.1
 #October 5 - Ward SDP# 97319 Network Sweep
 171.231.187.24
+#October 5 - Ward SDP# 97337 IDS / IPS
+65.49.20.66
