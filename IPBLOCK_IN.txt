@@ -7389,10 +7389,10 @@
 45.79.152.14
 #October 5 - Ward SDP# 97356 IDS / IPS
 66.175.211.202
-#October 6 - Ward SDP# 97406 Network Sweep
+#October 6 - Hans SDP# 97406 Network Sweep
 79.124.49.134
-
-
+#October 6 - Hans SDP# 97402 Network Sweep
+27.79.0.32
 
 
 
