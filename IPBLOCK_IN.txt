@@ -7423,4 +7423,7 @@
 #October 7 - Hans SDP# 97652 Network Sweep
 78.128.114.46
 171.231.192.138
-
+#October 7 - Hans SDP# 97638 Network Sweep
+52.200.37.166
+54.90.178.74
+82.151.82.236
