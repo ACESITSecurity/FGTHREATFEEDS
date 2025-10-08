@@ -7447,3 +7447,5 @@
 #October 8 - Hans SDP# 97830 Network Sweep
 20.40.46.85
 34.44.71.68
+#October 8 - Hans SDP# 97843 Network Sweep
+3.85.232.97
