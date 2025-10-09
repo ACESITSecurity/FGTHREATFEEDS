@@ -7458,6 +7458,6 @@
 #October 8 - Hans SDP# 98008 Network Sweep
 8.219.248.7
 27.147.219.58
-
-
+#October 8 - Hans SDP# 98005 IDS / IPS
+199.45.155.66
 
