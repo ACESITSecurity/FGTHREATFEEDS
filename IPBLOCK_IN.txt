@@ -7471,3 +7471,5 @@
 120.77.83.14
 #October 9 - Hans SDP# 98043 IDS / IPS
 20.80.80.29
+#October 9 - Paul SDP# 98068 Network Sweep
+13.126.239.227
