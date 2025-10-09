@@ -7465,3 +7465,5 @@
 18.234.165.160
 #October 8 - Paul SDP# 97912 IDS / IPS
 20.80.80.29
+#October 9 - Hans SDP# 98055 IDS / IPS
+120.77.83.14
