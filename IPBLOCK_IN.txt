@@ -7492,3 +7492,9 @@
 94.102.49.45
 #October 10 - Hans SDP# 98264 Network Sweep
 87.121.84.24
+#Bypass Authentication in WordPress Service Finder Theme
+5.189.221.98
+185.109.21.157
+192.121.16.196
+194.68.32.71
+178.125.204.198
