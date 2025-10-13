@@ -7515,6 +7515,13 @@
 116.110.208.245
 #October 11 - Ward SDP# 98462 Network Sweep
 79.124.62.230
+#October 11 - Ward SDP# 98396 IDS / IPS
+60.204.240.10
+#October 11 - Ward SDP# 98475 IDS / IPS
+196.251.83.56
+20.84.152.213
+#October 11 - Ward SDP# 98475 IDS / IPS
+143.198.225.197
 #October 12 - Ward SDP# 98533 Network Sweep
 34.230.78.42
 #October 12 - Ward SDP# 98544 Network Sweep
@@ -7535,8 +7542,3 @@
 221.120.4.134
 #October 13 - Ward SDP# 98684 Network Sweep
 124.106.67.118
-#October 13 - Ward SDP# 98396 IDS / IPS
-60.204.240.10
-#October 13 - Ward SDP# 98475 IDS / IPS
-196.251.83.56
-20.84.152.213
