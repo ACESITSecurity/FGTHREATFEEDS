@@ -7532,6 +7532,8 @@
 8.213.17.246
 #October 12 - Ward SDP# 98586 IDS / IPS
 64.62.197.189
+#October 12 - Ward SDP# 98592 IDS / IPS
+8.222.199.8
 #October 12 - Ward SDP# 98544 Network Sweep
 38.165.7.122
 #October 13 - Ward SDP# 98605 Network Sweep
