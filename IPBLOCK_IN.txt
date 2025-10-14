@@ -7559,3 +7559,6 @@
 #October 13 - Ward SDP# 98780 Network Sweep
 101.126.143.51
 196.251.84.181
+#October 13 - Ward SDP# 98786 Network Sweep
+154.57.194.21
+79.124.62.134
