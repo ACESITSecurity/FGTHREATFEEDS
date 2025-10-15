@@ -7602,7 +7602,7 @@
 #October 15 - Paul SDP# 99060 IDS / IPS
 20.118.216.125
 146.70.194.252
-#October 15 - Paul SDP# 99109 IDS / IPS
+#October 15 - Ward SDP# 99109 IDS / IPS
 65.49.1.132
 #October 15 - Ward SDP# 99051 Network Sweep
 109.219.52.220
