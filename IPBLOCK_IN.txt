@@ -7597,3 +7597,5 @@
 #October 15 - Ward SDP# 99001 Network Sweep
 143.198.144.200
 188.166.82.117
+#October 15 - Paul SDP# 99003 IDS / IPS
+206.168.34.37
