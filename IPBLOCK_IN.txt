@@ -7664,3 +7664,5 @@
 20.244.25.14
 #October 18 - Paul SDP# 99664 Network Sweep
 125.208.23.108
+#October 19 - Hans SDP# 99722 IDS / IPS
+5.189.141.59
