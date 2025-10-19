@@ -7670,3 +7670,6 @@
 65.49.1.186
 #October 19 - Hans SDP# 99744 Network Sweep
 44.204.158.171
+#October 19 - Hans SDP# 99733 Network Sweep
+139.224.11.209
+119.29.200.193
