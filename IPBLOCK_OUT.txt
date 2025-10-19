@@ -592,4 +592,19 @@
 101.43.70.156
 #October 17 - Paul SDP# 99571 Network Sweep
 41.94.88.219
+#October 18 - Paul SDP# 99584 Network Sweep
+93.123.109.163
+#October 18 - Paul SDP# 99603 Network Sweep
+47.95.239.33
+#October 18 - Paul SDP# 99624 Network Sweep
+54.237.103.249
+54.175.46.185
+#October 18 - Paul SDP# 99631 Network Sweep
+186.116.1.222
+#October 18 - Paul SDP# 99634 Network Sweep
+125.208.23.111
+#October 18 - Paul SDP# 99634 Network Sweep
+20.244.25.14
+#October 18 - Paul SDP# 99664 Network Sweep
+125.208.23.108
 
