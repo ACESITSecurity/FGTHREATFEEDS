@@ -7631,3 +7631,36 @@
 180.254.205.110
 #October 17 - Ward SDP# 99417 Network Sweep
 27.79.4.164
+#October 17 - Paul SDP# 99440 IDS / IPS
+79.142.65.9
+#October 17 - Paul SDP# 99441 Network Sweep
+196.251.71.24
+8.210.21.103
+#October 17 - Paul SDP# 99450 Network Sweep
+47.109.129.138
+196.251.69.141
+#October 17 - Paul SDP# 99509 Network Sweep
+196.251.80.30
+169.211.232.182
+#October 17 - Paul SDP# 99533 Network Sweep
+196.251.72.53
+101.126.135.131
+196.251.80.29
+101.43.70.156
+#October 17 - Paul SDP# 99571 Network Sweep
+41.94.88.219
+#October 18 - Paul SDP# 99584 Network Sweep
+93.123.109.163
+#October 18 - Paul SDP# 99603 Network Sweep
+47.95.239.33
+#October 18 - Paul SDP# 99624 Network Sweep
+54.237.103.249
+54.175.46.185
+#October 18 - Paul SDP# 99631 Network Sweep
+186.116.1.222
+#October 18 - Paul SDP# 99634 Network Sweep
+125.208.23.111
+#October 18 - Paul SDP# 99634 Network Sweep
+20.244.25.14
+#October 18 - Paul SDP# 99664 Network Sweep
+125.208.23.108
