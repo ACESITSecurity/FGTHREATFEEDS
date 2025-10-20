@@ -7707,3 +7707,9 @@
 34.237.243.245
 #October 20 - Hans SDP# 99756 Network Sweep
 209.38.236.62
+#October 20 - Hans SDP# 99817 Network Sweep
+119.166.187.214
+#October 20 - Hans SDP# 99830 Network Sweep
+8.138.195.212
+#October 20 - Hans SDP# 99839 Network Sweep
+159.75.182.191
