@@ -7729,3 +7729,8 @@
 121.41.37.60
 #October 21 - Hans SDP# 99944 Network Sweep
 139.196.161.213
+#October 21 - Paul SDP# 100008 Network Sweep
+62.210.214.155
+#October 21 - Paul SDP# 100007 Network Sweep
+206.168.34.127
+167.94.138.187
