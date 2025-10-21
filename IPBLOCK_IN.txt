@@ -7734,3 +7734,5 @@
 #October 21 - Paul SDP# 100007 Network Sweep
 206.168.34.127
 167.94.138.187
+#October 21 - Hans SDP# 100156 IDS / IPS
+199.45.155.95
