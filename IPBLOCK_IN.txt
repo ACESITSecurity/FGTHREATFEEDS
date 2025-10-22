@@ -7738,9 +7738,9 @@
 199.45.155.95
 #October 21 - Hans SDP# 100101 IDS / IPS
 64.62.197.40
-#October 21 - Hnas SDP# 100157 Network Sweep
+#October 21 - Hans SDP# 100157 Network Sweep
 194.180.48.148
-#October 21 - Hnas SDP# 100102 Network Sweep
+#October 21 - Hans SDP# 100102 Network Sweep
 47.76.210.182
-#October 21 - Hnas SDP# 100068 Network Sweep
+#October 21 - Hans SDP# 100068 Network Sweep
 109.205.211.86
