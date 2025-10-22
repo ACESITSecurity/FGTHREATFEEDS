@@ -7770,3 +7770,5 @@
 185.169.4.104
 #October 23 - Ward SDP# 100448 Network Sweep
 65.108.21.28
+#October 23 - Ward SDP# 100452 Network Sweep
+8.152.98.20
