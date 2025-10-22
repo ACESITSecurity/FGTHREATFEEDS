@@ -7754,3 +7754,6 @@
 212.11.64.45
 #October 22 - Hans SDP# 100175 IDS / IPS
 152.53.100.133
+#October 22 - Hans SDP# 100200 Network Sweep
+196.251.115.78
+27.79.45.252
