@@ -7808,3 +7808,5 @@ v#March 22, 2025
 103.31.38.37
 #Malicious Mailer IP
 85.28.47.7
+#October 24 - Ward SDP# 100753 Network Sweep
+103.82.24.114
