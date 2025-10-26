@@ -7839,3 +7839,5 @@ v#March 22, 2025
 89.248.163.194
 #October 26 - Ward SDP# 100902 Network Sweep
 121.121.60.200
+#October 26 - Ward SDP# 100911 Network Sweep
+165.232.81.217
