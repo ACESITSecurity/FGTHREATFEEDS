@@ -7872,3 +7872,5 @@ v#March 22, 2025
 #October 27 - Hans SDP# 100985 IDS / IPS
 143.198.150.150
 199.45.155.97
+#October 27 - Hans SDP# 101018 Network Sweep
+103.212.141.189
