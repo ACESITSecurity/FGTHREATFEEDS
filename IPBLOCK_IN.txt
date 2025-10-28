@@ -7893,3 +7893,5 @@ v#March 22, 2025
 45.91.250.104
 #October 28 - Paul SDP# 101168 Network Sweep
 65.49.1.43
+#October 28 - Paul SDP# 101177 Network Sweep
+66.132.153.125
