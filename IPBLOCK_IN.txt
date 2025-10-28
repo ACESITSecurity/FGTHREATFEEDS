@@ -7882,3 +7882,5 @@ v#March 22, 2025
 #October 27 - Hans SDP# 101118 IDS / IPS
 34.19.127.191
 34.19.127.207
+#October 27 - Ward SDP# 101140 Network Sweep
+121.156.163.143
