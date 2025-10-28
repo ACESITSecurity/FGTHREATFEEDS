@@ -7897,9 +7897,11 @@ v#March 22, 2025
 #October 28 - Ward SDP# 101210 Network Sweep
 45.148.10.243
 43.138.35.204
-#October 28 - Paul SDP# 101168 Network Sweep
+#October 28 - Paul SDP# 101168 IDS / IPS
 65.49.1.43
-#October 28 - Paul SDP# 101177 Network Sweep
+#October 28 - Paul SDP# 101177 IDS / IPS
 66.132.153.125
-#October 28 - Paul SDP# 101183 Network Sweep
+#October 28 - Paul SDP# 101183 IDS / IPS
 143.198.225.197
+#October 28 - Paul SDP# 101204 IDS / IPS
+199.45.154.132
