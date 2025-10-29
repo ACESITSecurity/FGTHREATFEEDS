@@ -7930,3 +7930,6 @@ v#March 22, 2025
 34.197.138.217
 #October 29 - Ward SDP# 101409 Network Sweep
 61.92.218.47
+#October 29 - Paul SDP# 101367 IDS / IPS
+167.94.138.46
+199.45.154.143
