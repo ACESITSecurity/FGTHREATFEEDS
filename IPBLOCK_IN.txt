@@ -7920,3 +7920,5 @@ v#March 22, 2025
 #October 28 - Ward SDP# 101353 Network Sweep
 160.187.33.148
 141.98.11.35
+#October 29 - Paul SDP# 101274 IDS / IPS
+31.6.41.8
