@@ -7937,3 +7937,5 @@ v#March 22, 2025
 199.45.154.156
 #October 29 - Ward SDP# 101421 IDS / IPS
 64.226.86.7
+#October 29 - Ward SDP# 101500 Network Sweep
+188.148.250.89
