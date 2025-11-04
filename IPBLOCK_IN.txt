@@ -8020,6 +8020,8 @@ v#March 22, 2025
 84.36.108.43
 #November 02 - Ward SDP# 101970 Network Sweep
 152.42.138.217
+#November 03 - Ward SDP# 102000 Network Sweep
+116.110.0.88
 #November 3 - Paul SDP# 101705 IDS / IPS
 64.62.197.95
 #November 3 - Paul SDP# 101748 IDS / IPS
