@@ -8044,3 +8044,9 @@ v#March 22, 2025
 65.49.1.198
 #November 3 - Paul SDP# 102126 IDS / IPS
 192.210.160.141
+#November 4 - Paul SDP# 102172 IDS / IPS
+165.227.142.251
+#November 4 - Paul SDP# 102175 IDS / IPS
+66.132.153.133
+#November 4 - Paul SDP# 102189 IDS / IPS
+64.62.156.145
