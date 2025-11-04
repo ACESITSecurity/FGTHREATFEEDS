@@ -8011,3 +8011,5 @@ v#March 22, 2025
 217.154.8.173
 #November 2 - Paul SDP# 101963 IDS / IPS
 165.154.233.77
+#November 02 - Ward SDP# 101943 Network Sweep
+185.242.226.33
