@@ -8071,3 +8071,5 @@ v#March 22, 2025
 139.170.141.170
 #November 04 - Ward SDP# 102291 Network Sweep
 192.168.18.11
+#November 04 - Ward SDP# 102308 Network Sweep
+143.198.30.131
