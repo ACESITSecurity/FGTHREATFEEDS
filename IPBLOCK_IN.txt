@@ -8081,3 +8081,5 @@ v#March 22, 2025
 3.212.240.129
 #November 5 - Ward SDP# 102457 IDS / IPS
 40.124.116.246
+#November 5 - Ward SDP# 102478 IDS / IPS
+64.62.156.137
