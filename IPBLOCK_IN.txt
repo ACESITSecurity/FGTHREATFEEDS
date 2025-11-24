@@ -8489,8 +8489,9 @@
 65.49.1.159
 #November 23 - Hans SDP# 105340 Network Sweep
 111.47.65.219
-
-
+#November 23 - Hans SDP# 105345 Network Sweep
+54.81.99.29
+207.154.211.129
 
 
 
