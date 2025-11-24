@@ -8540,8 +8540,9 @@
 138.197.41.105
 #November 24 - Hans SDP# 105601 Network Sweep
 116.131.154.154
-
-
+#November 24 - Hans SDP# 105582 Network Sweep
+18.218.36.33
+139.224.188.80
 
 
 
