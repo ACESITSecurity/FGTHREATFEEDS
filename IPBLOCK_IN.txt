@@ -8511,7 +8511,7 @@
 210.105.67.198
 #November 23 - Hans SDP# 105414 Network Sweep
 94.26.88.38
-#November 19 - Hans SDP# 104887 IDS / IPS
+#November 19 - Ward SDP# 104887 IDS / IPS
 206.168.34.118
 #November 24 - Hans SDP# 105435 IDS / IPS
 61.245.11.87
