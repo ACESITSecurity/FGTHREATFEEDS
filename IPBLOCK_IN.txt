@@ -8517,8 +8517,8 @@
 162.142.125.203
 #November 24 - Hans SDP# 105435 IDS / IPS
 61.245.11.87
-
-
+#November 24 - Hans SDP# 105513 IDS / IPS
+62.84.190.76
 
 
 
