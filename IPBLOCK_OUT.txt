@@ -576,6 +576,9 @@
 139.45.197.121
 #Malicious Mailer IP
 85.28.47.7
+#November 23 - Hans SDP# 105397 IDS / IPS
+47.75.14.37
+164.52.51.34
 
 
 
