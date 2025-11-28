@@ -8638,10 +8638,10 @@
 #November 27 - Hans SDP# 106043 IDS / IPS
 210.105.58.118
 14.103.230.55
-
-
-
-
+#November 27 - Hans SDP# 106058 IDS / IPS
+172.245.61.84
+#November 27 - Hans SDP# 106055 IDS / IPS
+64.62.156.174
 
 
 
