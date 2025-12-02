@@ -8700,7 +8700,8 @@
 64.62.197.72
 #November 21 - Ward SDP# 105251 IDS / IPS
 139.59.132.8
-
+#November 29 - Ward SDP# 106215 IDS / IPS
+195.7.6.43
 
 
 
