@@ -8706,6 +8706,7 @@
 167.86.115.89
 #November 29 - Ward SDP# 106240 IDS / IPS
 82.115.48.212
-
+#November 29 - Ward SDP# 106256 IDS / IPS
+163.5.148.15
 
 
