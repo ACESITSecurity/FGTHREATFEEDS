@@ -8868,8 +8868,8 @@
 43.247.132.232
 #December 7 - Hans SDP# 107457 IDS / IPS
 65.49.1.85
-
-
+#December 7 - Hans SDP# 107469 IDS / IPS
+18.213.222.192
 
 
 
