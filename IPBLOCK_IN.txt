@@ -8854,5 +8854,5 @@
 #December 02 - Ward SDP# 106559 IDS / IPS
 195.154.81.217
 185.138.88.86
-#December 02 - Ward SDP# 106559 IDS / IPS
+#December 02 - Ward SDP# 106589 IDS / IPS
 96.126.106.7
