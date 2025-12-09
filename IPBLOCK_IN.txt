@@ -104,6 +104,7 @@
 23.227.196.121
 #April 1, 2025
 #MSOC - Request - #75666
+79.142.79.9
 64.62.197.220
 #MSOC - Request - #75671
 8.133.255.8
@@ -8756,8 +8757,8 @@
 167.99.209.250
 #December 8 - Hans SDP# 107497 Network Sweep
 92.63.197.88
-
-
+#December 8 - Hans SDP# 107503 Network Sweep
+171.231.199.178
 
 
 
