@@ -8777,8 +8777,8 @@
 123.58.39.213
 #December 8 - Hans SDP# 107513 Network Sweep
 167.172.47.220
-
-
+#December 8 - Hans SDP# 107485 IDS / IPS
+64.23.214.73
 
 
 
