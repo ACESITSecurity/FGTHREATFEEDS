@@ -8789,7 +8789,7 @@
 203.19.35.147
 #December 8 - Hans SDP# 107550 IDS / IPS
 20.65.194.85
-
-
+#December 9 - Hans SDP# 107590 Network Sweep
+154.198.162.155
 
 
