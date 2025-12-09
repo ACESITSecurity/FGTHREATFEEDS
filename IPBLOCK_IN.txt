@@ -8864,8 +8864,8 @@
 40.124.174.133
 #December 7 - Hans SDP# 107393 IDS / IPS
 206.168.34.34
-
-
+#December 7 - Hans SDP# 107402 IDS / IPS
+43.247.132.232
 
 
 
