@@ -8828,8 +8828,8 @@
 75.102.42.151
 #December 6 - Hans SDP# 107284 IDS / IPS
 188.239.19.106
-
-
+#December 6 - Hans SDP# 107287 IDS / IPS
+115.190.108.231
 
 
 
