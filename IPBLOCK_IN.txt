@@ -8922,5 +8922,5 @@
 104.248.86.0
 #December 2 - Ward SDP# 106785 Network Sweep
 167.71.2.202
-
-
+#December 3 - Ward SDP# 106789 IDS / IPS
+20.65.201.12
