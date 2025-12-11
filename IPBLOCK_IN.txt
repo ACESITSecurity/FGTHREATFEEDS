@@ -8961,7 +8961,8 @@
 185.202.239.108
 #December 3 - Ward SDP# 106801 IDS / IPS
 43.157.223.75
-
+#December 3 - Ward SDP# 106849 IDS / IPS
+45.138.158.110
 
 
 
