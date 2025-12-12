@@ -591,6 +591,8 @@
 210.213.116.141
 #November 27 - Hans SDP# 106028 IDS / IPS
 175.99.13.133
-
+#December 11 - Hans SDP# 108135 IDS / IPS
+3.169.137.49
+54.230.71.44
 
 
