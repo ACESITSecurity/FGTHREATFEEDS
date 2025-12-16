@@ -9033,8 +9033,8 @@
 34.19.127.195
 #December 12 - Hans SDP# 108326 IDS / IPS
 94.141.161.6
-
-
+#December 15 - Hans SDP# 108326 IDS / IPS
+199.45.155.96
 
 
 
