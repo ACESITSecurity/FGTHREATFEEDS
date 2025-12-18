@@ -9170,7 +9170,8 @@
 51.75.125.30
 #December 17 - Hans SDP# 109059 IDS / IPS
 159.195.25.234
-
+#December 18 - Ward SDP# 109085 Network Sweep
+167.99.37.173
 
 
 
