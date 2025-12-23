@@ -9491,3 +9491,7 @@
 20.169.49.23
 #December 22 - Ward SDP# 109704 Network Sweep
 103.252.136.60
+#December 22 - Ward SDP# 109708 Network Sweep
+167.71.1.85
+#December 22 - Ward SDP# 109717 Network Sweep
+161.35.145.67
