@@ -9601,8 +9601,8 @@
 167.71.11.8
 #January 1 - Hans SDP# 110627 IDS / IPS
 207.154.203.42
-
-
+#January 1 - Hans SDP# 110633 IDS / IPS
+102.69.167.14
 
 
 
