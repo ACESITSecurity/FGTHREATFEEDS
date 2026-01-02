@@ -9609,6 +9609,10 @@
 #December 30 - Ward SDP# 110576 IDS / IPS
 167.94.146.52
 210.187.49.191
+#December 31 - Ward SDP# 110593 IDS / IPS
+65.49.1.150
+#December 31 - Ward SDP# 110562 IDS / IPS
+1.95.152.154
 #January 1 - Hans SDP# 110644 Network Sweep
 161.35.84.211
 #January 1 - Hans SDP# 110623 Network Sweep
