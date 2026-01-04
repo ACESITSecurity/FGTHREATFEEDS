@@ -9655,8 +9655,8 @@
 20.15.162.180
 #January 3 - Hans SDP# 110835 IDS / IPS
 167.94.138.58
-
-
+#January 3 - Hans SDP# 110848 IDS / IPS
+65.49.1.230
 
 
 
