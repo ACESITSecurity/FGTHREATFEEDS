@@ -9711,8 +9711,8 @@
 18.212.88.233
 #January 6 - Ward SDP# 111435 Network Sweep
 13.221.57.144
-
-
+#January 7 - Ward SDP# 111441 IDS / IPS
+20.14.81.42
 
 
 
