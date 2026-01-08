@@ -9734,8 +9734,8 @@
 64.227.65.215
 #January 8 - Hans SDP# 111637 IDS / IPS
 130.12.180.177
-
-
+#January 8 - Hans SDP# 111640 IDS / IPS
+154.70.82.114
 
 
 
