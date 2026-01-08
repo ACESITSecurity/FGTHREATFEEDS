@@ -9722,8 +9722,8 @@
 65.49.1.178
 #January 7 - Ward SDP# 111478 IDS / IPS
 46.34.163.206
-
-
+#January 7 - Hans SDP# 111569 IDS / IPS
+80.82.77.33
 
 
 
