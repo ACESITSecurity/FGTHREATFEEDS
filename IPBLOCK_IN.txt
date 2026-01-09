@@ -9774,13 +9774,13 @@
 #January 9 - Ward SDP# 111924 Network Sweep
 142.93.143.64
 106.75.176.89
-#January 9 - Hans SDP# 111881 IDS / IPS
+#January 9 - Ward SDP# 111881 IDS / IPS
 34.19.127.212
-#January 9 - Hans SDP# 111854 IDS / IPS
+#January 9 - Ward SDP# 111854 IDS / IPS
 135.119.96.220
-#January 9 - Hans SDP# 111881 IDS / IPS
+#January 9 - Ward SDP# 111881 IDS / IPS
 54.163.2.228
-#January 9 - Hans SDP# 111854 IDS / IPS
+#January 9 - Ward SDP# 111854 IDS / IPS
 84.234.96.159
 
 
