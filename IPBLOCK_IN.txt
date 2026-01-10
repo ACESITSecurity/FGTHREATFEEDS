@@ -9782,10 +9782,17 @@
 54.163.2.228
 #January 9 - Ward SDP# 111854 IDS / IPS
 84.234.96.159
-
-
-
-
+#January 9 - Ward SDP# 111939 Network Sweep
+185.200.116.69
+#January 9 - Ward SDP# 111945 Network Sweep
+195.178.110.160
+109.205.213.110
+202.183.166.211
+93.123.109.214
+#January 9 - Ward SDP# 111951 Network Sweep
+44.222.81.115
+#January 9 - Ward SDP# 111963 Network Sweep
+112.135.211.86
 
 
 
