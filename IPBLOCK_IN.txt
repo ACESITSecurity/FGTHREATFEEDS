@@ -9875,3 +9875,12 @@
 74.235.122.210
 #January 13 - Ward SDP# 112495 IDS / IPS
 117.146.60.5
+#January 13 - Ward SDP# 112480 Network Sweep
+8.209.252.26
+#January 13 - Ward SDP# 112486 Network Sweep
+165.232.81.125
+101.126.85.58
+#January 13 - Ward SDP# 112498 Network Sweep
+54.145.10.191
+#January 13 - Ward SDP# 112501 Network Sweep
+188.166.8.220
