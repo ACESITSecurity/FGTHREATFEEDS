@@ -9841,8 +9841,8 @@
 192.168.254.128
 #January 12 - Hans SDP# 112311 Network Sweep
 193.142.146.230
-
-
+#January 13 - Hans SDP# 112334 IDS / IPS
+137.184.190.205
 
 
 
