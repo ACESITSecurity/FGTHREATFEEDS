@@ -9921,3 +9921,7 @@
 165.227.55.4
 #January 15 - Ward SDP# 112820 IDS / IPS
 199.45.155.109
+#January 15 - Ward SDP# 112836 Network Sweep
+159.65.202.169
+#January 15 - Ward SDP# 112851 Network Sweep
+164.90.207.233
