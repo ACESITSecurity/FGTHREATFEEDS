@@ -9919,5 +9919,5 @@
 #January 15 - Ward SDP# 112774 IDS / IPS
 65.49.1.123
 165.227.55.4
-
-
+#January 15 - Ward SDP# 112820 IDS / IPS
+199.45.155.109
