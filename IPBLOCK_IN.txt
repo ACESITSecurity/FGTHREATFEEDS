@@ -9927,8 +9927,8 @@
 164.90.207.233
 #January 16 - Hans SDP# 112873 IDS / IPS
 169.148.69.60
-
-
+#January 16 - Hans SDP# 112865 Network Sweep
+IP Address is already blocked
 
 
 
