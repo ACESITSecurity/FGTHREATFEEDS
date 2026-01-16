@@ -9938,8 +9938,11 @@
 #January 16 - Ward SDP# 112965 Network Sweep
 203.76.98.70
 95.213.149.246
-
-
+#January 16 - ward SDP# 112964 IDS / IPS
+64.62.156.189
+#January 16 - ward SDP# 112936 IDS / IPS
+109.105.210.82
+109.105.210.84
 
 
 
