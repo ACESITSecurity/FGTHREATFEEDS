@@ -9949,8 +9949,8 @@
 178.62.193.105
 #January 16 - Hans SDP# 112980 Network Sweep
 165.154.29.46
-
-
+#January 17 - Hans SDP# 113035 IDS / IPS
+213.199.35.123
 
 
 
