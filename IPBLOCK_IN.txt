@@ -9943,7 +9943,7 @@
 #January 16 - ward SDP# 112936 IDS / IPS
 109.105.210.82
 109.105.210.84
-
-
+#January 16 - Hans SDP# 112994 Network Sweep
+161.35.212.221
 
 
