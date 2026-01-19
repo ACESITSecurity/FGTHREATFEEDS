@@ -10015,8 +10015,9 @@
 193.29.104.11
 #January 19 - Hans SDP# 113175 Network Sweep
 152.42.134.58
-
-
+#January 19 - Hans SDP# 113179 Network Sweep
+164.92.145.59
+134.122.52.188
 
 
 
