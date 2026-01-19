@@ -10013,8 +10013,8 @@
 34.19.127.198
 #January 18 - Hans SDP# 113153 IDS / IPS
 193.29.104.11
-
-
+#January 19 - Hans SDP# 113175 Network Sweep
+152.42.134.58
 
 
 
