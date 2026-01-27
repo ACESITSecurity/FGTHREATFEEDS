@@ -10254,5 +10254,5 @@
 206.168.34.124
 #January 27 - Ward SDP# 114482 IDS / IPS
 135.237.127.71
-#January 27 - Ward SDP# Multiple Port Scan (Suspicious)
+#January 27 - Ward SDP# Multiple Port Scan (Suspicious) SOC UPDATE
 112.211.2.184
