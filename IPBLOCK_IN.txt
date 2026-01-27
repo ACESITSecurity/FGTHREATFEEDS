@@ -10225,12 +10225,27 @@
 165.22.216.148
 #January 26 - Ward SDP# 114457 IDS / IPS  
 64.62.197.123
-
-
-
-
-
-
+#January 26 - Ward SDP# 114495 Network Sweep
+8.130.21.39
+#January 26 - Ward SDP# 114499 Network Sweep
+178.62.231.83
+#January 26 - Ward SDP# 114508 Network Sweep
+60.205.226.171
+#January 27 - Ward SDP# 114535 Network Sweep
+178.62.246.120
+#January 27 - Ward SDP# 114538 Network Sweep
+23.106.54.151
+#January 27 - Ward SDP# 114541 Network Sweep
+47.122.122.1
+#January 27 - Ward SDP# 114552 Network Sweep
+67.213.118.111
+#January 27 - Ward SDP# 114555 Network Sweep
+116.110.210.53
+#January 26 - Ward SDP# 114503 IDS / IPS
+170.64.234.63
+#January 27 - Ward SDP# 114565 IDS / IPS
+64.226.65.160
+173.212.231.225
 
 
 
