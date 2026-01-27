@@ -10260,3 +10260,5 @@
 82.147.84.78
 #January 27 - Ward SDP# 114690 Excessive Firewall Denies Between Hosts
 82.147.84.198
+#January 27 - Ward SDP# 114688 Excessive Firewall Denies Between Hosts
+82.147.84.134
