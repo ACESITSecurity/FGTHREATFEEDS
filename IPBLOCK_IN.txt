@@ -10345,3 +10345,9 @@
 165.232.114.242
 #January 29 - Ward SDP# 115218 Network Sweep
 14.103.167.41
+#January 29 - Ward SDP# 115199 IDS / IPS
+209.38.27.37
+#January 29 - Ward SDP# 115230 IDS / IPS
+134.199.164.102
+#January 29 - Ward SDP# 115187 IDS / IPS
+115.96.28.202
