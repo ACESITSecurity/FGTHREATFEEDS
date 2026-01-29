@@ -10327,11 +10327,11 @@
 192.109.200.205
 #January 29 - Hans SDP# 115044 IDS / IPS
 54.235.56.112
-
-
-
-
-
-
+#January 29 - Ward SDP# 115058 Network Sweep
+8.130.75.101
+#January 29 - Ward SDP# 115103 Network Sweep
+182.92.98.125
+#January 29 - Ward SDP# 115131 Network Sweep
+213.22.91.50
 
 
