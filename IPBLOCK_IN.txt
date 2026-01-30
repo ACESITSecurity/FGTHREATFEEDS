@@ -10353,8 +10353,8 @@
 115.96.28.202
 #January 30 - Hans SDP# 115268 IDS / IPS
 85.11.167.4
-
-
+#January 30 - Hans SDP# 115248 Network Sweep
+34.92.234.11
 
 
 
