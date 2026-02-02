@@ -10392,3 +10392,33 @@
 47.237.81.121
 #January 31 - Ward SDP# 115485 Network Sweep
 134.122.48.41
+#February 1 - Ward SDP# 115489 Network Sweep
+142.93.232.43
+161.35.85.188
+#February 1 - Ward SDP# 115508 Network Sweep
+159.65.205.136
+#February 1 - Ward SDP# 115511 Network Sweep
+47.76.121.170
+167.71.73.247
+#February 1 - Ward SDP# 115513 Network Sweep
+167.172.36.95
+#February 1 - Ward SDP# 115521 Network Sweep
+101.36.107.65
+#February 1 - Ward SDP# 115524 Network Sweep
+130.12.181.186
+130.12.181.189
+130.12.181.185
+176.65.139.19
+#February 1 - Ward SDP# 115528 Network Sweep
+130.12.181.187
+#February 1 - Ward SDP# 115531 Network Sweep
+130.12.181.190
+#February 1 - Ward SDP# 115544 Network Sweep
+164.92.153.122
+#February 1 - Ward SDP# 115601 Network Sweep
+130.12.181.195
+164.90.200.92
+#February 1 - Ward SDP# 115713 Network Sweep
+159.65.203.124
+68.183.6.65
+
