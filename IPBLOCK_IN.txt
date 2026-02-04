@@ -10474,10 +10474,13 @@
 65.49.1.133
 #February 4 - Ward SDP# 116155 IDS / IPS
 102.244.97.183
-
-
-
-
+#February 4 - Ward SDP# 115998 IDS / IPS
+47.100.228.193
+#February 3 - Ward SDP# 115961 IDS / IPS
+64.82.206.195
+#February 3 - Ward SDP# 115820 IDS / IPS
+207.180.219.2
+45.141.215.153
 
 
 
