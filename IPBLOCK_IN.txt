@@ -10464,12 +10464,16 @@
 8.134.70.110
 #February 4 - Ward SDP# 116008 Network Sweep
 116.110.223.70
-
 #February 4 - Ward SDP# 116074 Network Sweep
 164.90.197.225
-
-
-
+#February 4 - Ward SDP# 116033 IDS / IPS
+62.171.164.240
+#February 4 - Ward SDP# 116004 IDS / IPS
+199.45.154.123
+#February 3 - Ward SDP# 115852 IDS / IPS
+65.49.1.133
+#February 4 - Ward SDP# 116155 IDS / IPS
+102.244.97.183
 
 
 
