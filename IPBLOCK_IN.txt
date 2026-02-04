@@ -10481,22 +10481,17 @@
 #February 3 - Ward SDP# 115820 IDS / IPS
 207.180.219.2
 45.141.215.153
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#February 4 - Ward SDP# 116123 Network Sweep
+59.98.33.158
+#February 4 - Ward SDP# 116148 Network Sweep
+61.155.110.210
+92.63.197.5
+#February 4 - Ward SDP# 116153 Network Sweep
+164.92.144.146
+#February 4 - Ward SDP# 116157 Network Sweep
+167.71.9.187
+#February 4 - Ward SDP# 116160 Network Sweep
+5.255.97.209
 
 
 
