@@ -10492,6 +10492,14 @@
 167.71.9.187
 #February 4 - Ward SDP# 116160 Network Sweep
 5.255.97.209
-
-
+#February 5 - Ward SDP# 116179 Network Sweep
+209.38.70.156
+#February 5 - Ward SDP# 116185 Network Sweep
+60.170.253.77
+#February 5 - Ward SDP# 116191 Network Sweep
+64.225.65.110
+#February 5 - Ward SDP# 116194 Network Sweep
+27.79.40.17
+#February 5 - Ward SDP# 116300 Network Sweep
+50.116.35.67
 
