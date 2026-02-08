@@ -10556,3 +10556,16 @@
 165.227.236.121
 #February 8 - Ward SDP# 116695 Network Sweep
 167.99.32.200
+#February 8 - Ward SDP# 116698 Network Sweep
+27.79.43.182
+#February 8 - Ward SDP# 116705 Network Sweep
+167.99.45.98
+#February 8 - Ward SDP# 116733 Network Sweep
+64.225.75.118
+#February 8 - Ward SDP# 116733 Network Sweep
+103.58.6.160
+#February 8 - Ward SDP# 116741 Network Sweep
+94.183.84.109
+#February 8 - Ward SDP# 116715 Network Sweep
+134.122.61.21
+
