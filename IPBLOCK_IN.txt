@@ -10582,3 +10582,13 @@
 146.190.224.94
 #February 9 - Ward SDP# 116886 Network Sweep
 3.137.55.19
+#February 9 - Ward SDP# 116890 IDS / IPS
+34.19.116.51
+#February 9 - Ward SDP# 116924 IDS / IPS
+2.58.56.147
+#February 9 - Ward SDP# 116981 IDS / IPS
+155.94.145.153
+#February 9 - Ward SDP# 116849 IDS / IPS
+64.62.156.185
+#February 9 - Ward SDP# 116890 IDS / IPS
+124.223.86.48
