@@ -10711,3 +10711,47 @@
 90.230.98.52
 #February 13 - Hans SDP# 117618 IDS / IPS
 66.132.153.132
+#February 12 - Ward SDP# 117607 Network Sweep
+47.251.64.5
+#February 13 - Ward SDP# 117643 Network Sweep
+104.248.158.38
+#February 13 - Ward SDP# 117673 Network Sweep
+87.120.191.65
+#February 13 - Ward SDP# 117691 Network Sweep
+60.160.178.115
+#February 13 - Ward SDP# 117698 Network Sweep
+45.87.229.18
+#February 13 - Ward SDP# 117715 Network Sweep
+157.245.64.103
+#February 13 - Ward SDP# 117758 Network Sweep
+174.138.8.159
+#February 13 - Ward SDP# 117762 Network Sweep
+95.219.219.120
+#February 13 - Ward SDP# 117768 Network Sweep
+24.52.70.30
+#February 14 - Ward SDP# 117779 Network Sweep
+164.92.147.64
+#February 14 - Ward SDP# 117782 Network Sweep
+209.38.37.130
+#February 14 - Ward SDP# 117789 Network Sweep
+38.255.17.80
+#February 14 - Ward SDP# 117796 Network Sweep
+171.231.197.212
+#February 14 - Ward SDP# 117833 Network Sweep
+107.174.154.131
+#February 14 - Ward SDP# 117837 Network Sweep
+212.73.148.27
+#February 14 - Ward SDP# 117845 Network Sweep
+212.73.148.25
+#February 15 - Ward SDP# 117862 Network Sweep
+54.209.126.68
+#February 15 - Ward SDP# 117871 Network Sweep
+52.14.25.40
+#February 15 - Ward SDP# 117879 Network Sweep
+5.9.153.183
+#February 15 - Ward SDP# 117881 Network Sweep
+87.120.191.81
+#February 15 - Ward SDP# 117883 Network Sweep
+116.99.168.224
+#February 15 - Ward SDP# 117899 Network Sweep
+138.197.118.33
