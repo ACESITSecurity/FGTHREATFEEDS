@@ -10781,8 +10781,8 @@
 74.82.47.3
 #February 16 - Hans SDP# 118110 IDS / IPS
 158.160.10.196
-
-
+#February 18 - Hans SDP# 118240 Network Sweep
+27.79.41.168
 
 
 
