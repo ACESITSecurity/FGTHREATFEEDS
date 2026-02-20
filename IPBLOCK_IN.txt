@@ -10842,19 +10842,22 @@
 51.57.98.163
 #February 19 - Hans SDP# 118412 IDS / IPS
 161.97.111.127
-
-
-
-
-
-
-
-
-
-
-
-
-
+#February 20 - Ward SDP# 118652 IDS / IPS
+34.19.127.186
+34.19.127.220
+#February 20 - Ward SDP# 118661 IDS / IPS
+172.94.9.253
+#February 20 - Ward SDP# 118587 IDS / IPS
+167.94.138.126
+#February 19 - Ward SDP# 118482 IDS / IPS
+20.193.146.159
+40.124.175.30
+#February 20 - Ward SDP# 118661 IDS / IPS
+47.242.39.51
+#February 19 - Ward SDP# 118461 IDS / IPS
+212.28.181.117
+#February 19 - Ward SDP# 118535 IDS / IPS
+36.255.223.167
 
 
 
