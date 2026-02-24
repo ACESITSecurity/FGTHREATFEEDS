@@ -10942,14 +10942,20 @@
 #February 24 - Hans SDP# 119127 Network Sweep
 27.79.44.182
 204.236.151.80
-
-
-
-
-
-
-
-
+#February 24 - Ward SDP# 119143 IDS / IPS
+164.68.125.133
+#February 24 - Ward SDP# 119191 IDS / IPS
+129.212.184.16
+#February 24 - Ward SDP# 119143 IDS / IPS
+65.49.1.210
+#February 24 - Ward SDP# 119272 IDS / IPS
+117.164.191.217
+#February 23 - Ward SDP# 119023 IDS / IPS
+64.82.228.45
+#February 23 - Ward SDP# 119027 IDS / IPS
+65.49.1.174
+#February 24 - Ward SDP# 119191 IDS / IPS
+13.239.98.224
 
 
 
