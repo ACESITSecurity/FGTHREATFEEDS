@@ -10956,6 +10956,8 @@
 65.49.1.174
 #February 24 - Ward SDP# 119191 IDS / IPS
 13.239.98.224
-
-
+#February 23 - Ward SDP# 119025 IDS / IPS
+138.68.77.56
+#February 24 - Ward SDP# 119270 IDS / IPS
+78.128.114.58
 
