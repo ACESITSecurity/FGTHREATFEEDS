@@ -11107,3 +11107,9 @@
 3.239.13.6
 #March 4 - Hans SDP# 120485 Network Sweep 
 41.76.152.110
+#March 4 - Ward SDP# 120661 IDS / IPS
+138.124.67.80
+#March 4 - Ward SDP# 120620 IDS / IPS
+64.62.197.157
+#March 4 - Ward SDP# 120644 IDS / IPS
+176.65.132.3
