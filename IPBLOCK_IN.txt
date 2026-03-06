@@ -11137,8 +11137,8 @@
 193.142.147.55
 #March 6 - Hans SDP# 120850 Network Sweep
 165.22.190.68
-
-
+#March 6 - Hnas SDP# 120857 IDS / IPS
+206.168.34.51
 
 
 
