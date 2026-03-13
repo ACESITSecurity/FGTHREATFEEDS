@@ -11261,4 +11261,13 @@
 167.94.138.33
 #March 13 - Ward SDP# 122005 IDS / IPS
 85.11.167.19
-
+#March 13 - Ward SDP# 121972 IDS / IPS
+64.62.156.231
+#March 12 - Ward SDP# 121850 Network Sweep
+152.53.105.117
+#March 12 - Ward SDP# 121855 Network Sweep
+85.217.149.54
+#March 13 - Ward SDP# 121897 Network Sweep
+171.231.178.97
+#March 13 - Ward SDP# 121901 Network Sweep
+134.209.107.230
