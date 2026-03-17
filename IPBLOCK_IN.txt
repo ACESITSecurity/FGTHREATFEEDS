@@ -11346,5 +11346,26 @@
 163.176.138.17
 #March 16 - Ward SDP# 122361 IDS / IPS
 20.84.226.12
-
-
+#March 16 - Ward SDP# 122235 Network Sweep
+209.38.94.23
+#March 16 - Ward SDP# 122270 Network Sweep
+170.64.138.44
+#March 16 - Ward SDP# 122276 Network Sweep
+134.199.169.249
+#March 16 - Ward SDP# 122334 Network Sweep
+64.227.146.139
+212.73.148.36
+#March 16 - Ward SDP# 122357 Network Sweep
+170.64.185.21
+#March 16 - Ward SDP# 122360 Network Sweep
+113.190.242.154
+54.236.18.154
+#March 16 - Ward SDP# 122370 Network Sweep
+170.64.175.144
+18.190.15.50
+#March 17 - Ward SDP# 122402 Network Sweep
+116.110.155.214
+165.232.179.40
+47.180.61.210
+#March 17 - Ward SDP# 122414 Network Sweep
+128.24.226.82
