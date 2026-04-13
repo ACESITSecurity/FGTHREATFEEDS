@@ -11489,3 +11489,33 @@
 192.168.5.220
 #April 07 - Ward SDP# 125287 Excessive Firewall Denies
 87.121.84.56
+#April 09 - Ward SDP# 125552 Network Sweep
+13.221.151.82
+#April 09 - Ward SDP# 125559 Network Sweep
+168.144.37.110
+#April 09 - Ward SDP# 125579 Network Sweep
+31.57.216.72
+#April 09 - Ward SDP# 125590 Network Sweep
+18.217.208.51
+#April 10 - Ward SDP# 125603 Network Sweep
+2.40.99.114
+94.99.149.68
+#April 10 - Ward SDP# 125626 Network Sweep
+116.110.12.121
+#April 10 - Ward SDP# 125671 Network Sweep
+18.233.100.117
+34.201.57.118
+121.121.121.224
+#April 11 - Ward SDP# 125818 Network Sweep
+152.42.176.32
+#April 11 - Ward SDP# 125809 Network Sweep
+89.190.156.34
+#April 11 - Ward SDP# 125836 Network Sweep
+77.31.51.29
+#April 12 - Ward SDP# 125936 Network Sweep
+202.88.254.178
+#April 13 - Ward SDP# 125960 Network Sweep
+85.217.149.73
+#April 13 - Ward SDP# 125980 Network Sweep
+153.92.126.226
+
