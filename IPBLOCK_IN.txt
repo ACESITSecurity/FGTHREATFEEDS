@@ -11552,3 +11552,5 @@
 119.92.87.247
 #April 13 - Ward SDP# 126010 Excessive Firewall Denies
 139.162.119.196
+#April 14 - Ward SDP# 126194 Excessive Firewall Denies
+18.217.128.63
