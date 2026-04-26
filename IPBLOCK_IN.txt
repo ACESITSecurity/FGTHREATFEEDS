@@ -11629,3 +11629,20 @@
 34.87.145.23
 #April 24 - Hans SDP# 127598 Network Sweep
 101.100.176.199
+#April 24 - Ward SDP# 127641 Network Sweep
+52.23.241.253
+#April 24 - Ward SDP# 127714 Network Sweep
+212.8.251.106
+#April 24 - Ward SDP# 127717 Network Sweep
+18.119.209.50
+#April 25 - Ward SDP# 127757 Network Sweep
+116.110.13.78
+#April 27 - Ward SDP# 127853 Network Sweep
+222.252.31.106
+#April 27 - Ward SDP# 127856 Network Sweep
+138.124.187.190
+#April 27 - Ward SDP# 127892 Network Sweep
+142.171.108.155
+#April 27 - Ward SDP# 127893 Network Sweep
+107.172.13.134
+138.124.187.190
