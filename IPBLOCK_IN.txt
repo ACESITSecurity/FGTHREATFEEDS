@@ -11646,3 +11646,6 @@
 #April 27 - Ward SDP# 127893 Network Sweep
 107.172.13.134
 138.124.187.190
+#April 28 - Ward SDP# #128198 Excessive Firewall Denies Between Hosts
+160.119.76.52
+160.119.76.59
