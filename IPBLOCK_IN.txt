@@ -11716,15 +11716,26 @@
 3.87.26.96
 #May 11 - Hans SDP# 129759 Network Sweep
 116.110.6.128
-
-
-
-
-
-
-
-
-
+#May 7 - Ward SDP# 129411 Network Sweep
+83.147.240.67
+#May 7 - Ward SDP# 129456 Network Sweep
+27.79.2.106
+#May 8 - Ward SDP# 129485 Network Sweep
+212.73.148.15
+#May 8 - Ward SDP# 129490 Network Sweep
+85.217.149.20
+#May 9 - Ward SDP# 129545 Network Sweep
+107.173.178.145
+#May 9 - Ward SDP# 129629 Network Sweep
+87.246.54.153
+#May 10 - Ward SDP# 129669 Network Sweep
+116.110.223.85
+#May 10 - Ward SDP# 129683 Network Sweep
+34.203.224.37
+#May 10 - Ward SDP# 129699 Network Sweep
+164.215.103.88
+#May 10 - Ward SDP# 129709 Network Sweep
+107.175.238.103
 
 
 
