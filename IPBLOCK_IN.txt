@@ -11779,8 +11779,8 @@
 147.50.227.232
 #May 26 - Ward SDP# 131858 Excessive Firewall Denies
 160.119.76.63
-
-
+#May 27 - Hans SDP# 132125 Network Sweep
+13.211.143.73
 
 
 
