@@ -12137,8 +12137,8 @@
 116.110.14.224
 #August 14 - Hans SDP# 142400 Network Sweep
 175.140.205.66
-
-
+#August 14 - Hans SDP# 142398 Network Sweep
+193.32.162.34
 
 
 
