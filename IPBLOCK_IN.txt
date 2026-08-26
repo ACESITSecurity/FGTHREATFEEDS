@@ -12214,8 +12214,9 @@
 #August 25 - Hans SDP# 143569 Network Sweep
 151.243.11.8
 50.61.205.109
-
-
+#August 26 - Hans SDP# 143585 Network Sweep
+180.93.43.93
+222.74.198.58
 
 
 
