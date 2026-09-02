@@ -12237,8 +12237,9 @@
 32.193.241.45
 #September 1 - Hans SDP# 144239 Network Sweep
 102.220.161.46
-
-
+#September 2 - Hans SDP# 144267 Network Sweep
+194.180.48.21
+185.153.200.135
 
 
 
