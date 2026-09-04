@@ -12280,8 +12280,9 @@
 204.76.203.31
 #September 4 - Hans SDP# 144556 IDS / IPS
 154.201.66.175
-
-
+#September 4 - Hans SDP# 144558 IDS / IPS
+66.132.195.83
+35.200.191.248
 
 
 
