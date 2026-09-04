@@ -12276,8 +12276,8 @@
 #September 4 - Hans SDP# 144550 IDS / IPS
 176.65.148.226
 167.126.6.183
-
-
+#September 4 - Hans SDP# 144552 IDS / IPS
+204.76.203.31
 
 
 
