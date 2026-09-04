@@ -625,6 +625,6 @@
 154.12.226.43
 #[Request ID :##143544##] : [ACEN000338] Sev 4 - Malware Alert
 23.227.38.65
-
-
+#September 4 - Hans SDP# 144593 IDS / IPS
+213.136.72.88
 
