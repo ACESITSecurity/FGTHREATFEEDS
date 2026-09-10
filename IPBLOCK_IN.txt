@@ -12316,8 +12316,8 @@
 34.169.84.172
 #September 9 - Hans SDP# 145301 IDS / IPS
 154.221.24.43
-
-
+#September 10 - Hans SDP# 145307 IDS / IPS
+58.240.16.12
 
 
 
