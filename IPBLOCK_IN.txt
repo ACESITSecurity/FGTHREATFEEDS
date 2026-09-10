@@ -12320,8 +12320,8 @@
 58.240.16.12
 #September 10 - Hans SDP# 145312 IDS / IPS
 95.173.161.147
-
-
+#September 10 - Hans SDP# 145314 IDS / IPS
+66.132.186.206
 
 
 
