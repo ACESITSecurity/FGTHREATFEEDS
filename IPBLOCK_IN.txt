@@ -12310,10 +12310,10 @@
 66.132.195.51
 #September 9 - Hans SDP# 145290 IDS / IPS
 34.158.158.182
-
-
-
-
+#September 9 - Hans SDP# 145296 IDS / IPS
+161.248.239.20
+#September 9 - Hans SDP# 145298 IDS / IPS
+34.169.84.172
 
 
 
