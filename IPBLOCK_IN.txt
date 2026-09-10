@@ -12294,9 +12294,9 @@
 144.91.95.188
 #September 4 - Hans SDP# 144602 IDS / IPS
 3.227.248.201
-#September 9 - Hans SDP# 144602 IDS / IPS
+#September 9 - Hans SDP# 144602 Network Sweep
 102.220.160.191
-
-
+#September 9 - Hans SDP# 145300 Network Sweep
+31.77.114.43
 
 
