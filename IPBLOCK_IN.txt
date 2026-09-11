@@ -12339,8 +12339,8 @@
 34.125.149.4
 #September 10 - Hans SDP# 145356 IDS / IPS
 209.38.59.244
-
-
+#September 10 - Hans SDP# 145361 IDS / IPS
+192.168.23.29
 
 
 
