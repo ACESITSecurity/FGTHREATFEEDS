@@ -12361,23 +12361,36 @@
 85.239.149.72
 #September 11 - Hans SDP# 145422 IDS / IPS
 20.55.92.240
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#September 11 - Elmer SDP# 143958 Network Sweep
+45.148.10.189
+45.148.10.190
+45.148.10.191
+45.148.10.192
+45.148.10.193
+#September 11 - Elmer SDP# 143992 Network Sweep
+217.60.195.57
+#September 11 - Elmer SDP# 144024 Network Sweep
+78.128.114.174
+#September 11 - Elmer SDP# 143967 Network Sweep
+45.148.10.188
+#September 11 - Elmer SDP# 143961 IDS / IPS
+10.2.7.14
+10.2.7.15
+10.2.7.16
+10.2.7.17
+10.2.7.18
+10.2.7.19
+10.2.7.20
+#September 11 - Elmer SDP# 143986 Network Sweep
+45.142.193.162
+45.142.193.163
+#September 11 - Elmer SDP# 144048 Network Sweep
+45.142.193.165
+45.142.193.166
+#September 11 - Elmer SDP# 144050 Network Sweep
+31.57.216.27
+#September 11 - Elmer SDP# 144063 Network Sweep
+66.240.223.214
 
 
 
