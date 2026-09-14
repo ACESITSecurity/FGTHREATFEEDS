@@ -13106,8 +13106,8 @@
 #September 14 - Hans SDP# 145799 IDS / IPS
 34.19.127.208
 34.68.34.86
-
-
+#September 15 - Hans SDP# 145803 IDS / IPS
+34.26.175.29
 
 
 
