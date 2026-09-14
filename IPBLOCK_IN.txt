@@ -13082,8 +13082,8 @@
 66.132.195.70
 #September 13 - Hans SDP# 145629 IDS / IPS
 65.49.1.151
-
-
+#September 14 - Hans SDP# 145652 IDS / IPS
+66.132.195.112
 
 
 
