@@ -13066,8 +13066,8 @@
 #September 13 - Hans SDP# 145596 IDS / IPS
 66.132.195.88
 66.132.172.179
-
-
+#September 13 - Elmer SDP# 145666 IDS / IPS
+167.71.233.141
 
 
 
