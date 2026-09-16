@@ -13141,12 +13141,12 @@
 34.24.92.131
 #September 16 - Elmer SDP# 146005 Network Sweep
 94.154.43.159
-#September 16 - Hans SDP# 146007 IDS / IPS
+#September 16 - Elmer SDP# 146007 IDS / IPS
 34.19.127.184
-
-
-
-
+66.132.186.187
+66.132.195.44
+66.132.195.87
+186.182.105.49
 
 
 
