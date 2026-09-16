@@ -13135,8 +13135,8 @@
 66.132.195.74
 #September 16 - Elmer SDP# 145961 IDS / IPS
 98.93.93.48
-
-
+#September 16 - Elmer SDP# 145976 Network Sweep
+54.89.47.17
 
 
 
