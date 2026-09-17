@@ -13191,8 +13191,10 @@
 66.132.172.132
 #September 17 - Hans SDP# 146224 Network Sweep
 130.12.182.196
-
-
+#September 17 - Hans SDP# 146227 Network Sweep
+93.123.109.6
+218.147.202.136
+194.180.48.205
 
 
 
