@@ -13208,8 +13208,8 @@
 130.12.182.196
 #September 18- Hans SDP# 146278 IDS / IPS
 34.19.127.204
-
-
+#September 18- Hans SDP# 146386  Network Sweep
+92.118.39.14
 
 
 
