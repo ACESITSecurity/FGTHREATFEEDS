@@ -13233,8 +13233,9 @@
 #September 21 - Hans SDP# 146498 Network Sweep
 31.76.119.255
 85.11.167.147
-
-
+#September 5 - Elmer SDP# 144692 IDS / IPS
+47.95.234.23
+65.49.1.197
 
 
 
