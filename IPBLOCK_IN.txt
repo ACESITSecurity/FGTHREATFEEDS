@@ -13240,8 +13240,8 @@
 63.249.65.106
 #September 7 - Elmer SDP# 144797 IDS / IPS
 168.144.80.239
-
-
+#September 7 - Elmer SDP# 144801 IDS / IPS
+34.106.172.15
 
 
 
