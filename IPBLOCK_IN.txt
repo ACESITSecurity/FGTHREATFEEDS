@@ -13257,8 +13257,8 @@
 #September 8 - Elmer SDP# 145070 IDS / IPS
 129.121.128.70
 66.132.172.99
-
-
+#September 11 - Elmer SDP# 145442 IDS / IPS
+65.49.1.166
 
 
 
