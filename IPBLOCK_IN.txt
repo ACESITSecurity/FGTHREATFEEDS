@@ -13280,8 +13280,8 @@
 10.186.123.242
 #September 11 - Elmer SDP# 145477 Network Sweep
 94.154.43.251
-
-
+#September 21 - Elmer SDP# 146522 Network Sweep
+71.6.142.213
 
 
 
