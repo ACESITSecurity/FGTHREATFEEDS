@@ -13282,7 +13282,7 @@
 94.154.43.251
 #September 21 - Hans  SDP# 146522 Network Sweep
 71.6.142.213
-#September 21 - Hans SDP# 146522 Network Sweep
+#September 21 - Hans SDP# 146514 IDS / IPS
 66.132.195.101
 66.132.172.39
 66.132.195.66
