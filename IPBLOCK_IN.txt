@@ -13384,8 +13384,8 @@
 192.168.3.69
 #September 28 - Ward SDP# 147390 IDS / IPS
 66.132.172.180
-
-
+#September 28 - Hans SDP# 147382 IDS / IPS
+142.93.136.140
 
 
 
