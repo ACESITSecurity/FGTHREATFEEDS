@@ -13389,8 +13389,9 @@
 #September 29 - Hans SDP# 147467 IDS / IPS
 45.60.29.3
 45.60.29.1
-
-
+#[ACEN000375] Sev 2 - Automated Web Exploitation Attempts
+45.60.29.2
+45.60.29.4
 
 
 
