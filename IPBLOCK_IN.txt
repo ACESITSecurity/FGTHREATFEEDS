@@ -13392,8 +13392,9 @@
 #[ACEN000375] Sev 2 - Automated Web Exploitation Attempts
 45.60.29.2
 45.60.29.4
-
-
+#September 29 - Hans SDP# 147526 Network Sweep
+64.177.45.233
+192.168.100.12
 
 
 
