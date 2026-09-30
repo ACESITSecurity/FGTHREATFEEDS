@@ -13397,8 +13397,8 @@
 192.168.100.12
 #September 29 - Ward SDP# 147579 Network Sweep
 54.242.30.216
-
-
+#September 30 - Hans SDP# 147741 Network Sweep
+193.142.146.201
 
 
 
