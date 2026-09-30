@@ -13387,11 +13387,11 @@
 #September 28 - Hans SDP# 147382 IDS / IPS
 142.93.136.140
 #September 29 - Hans SDP# 147467 IDS / IPS
-45.60.29.3
-45.60.29.1
+#45.60.29.3
+#45.60.29.1
 #[ACEN000375] Sev 2 - Automated Web Exploitation Attempts
-45.60.29.2
-45.60.29.4
+#45.60.29.2
+#45.60.29.4
 #September 29 - Hans SDP# 147526 Network Sweep
 64.177.45.233
 192.168.100.12
