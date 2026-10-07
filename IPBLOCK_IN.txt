@@ -13449,8 +13449,10 @@
 116.99.169.66
 #October 7 - Hans SDP# 148499 Network Sweep
 111.161.65.106
-
-
+#[ACEN000383] Sev 3 – External Reconnaissance on SAP Router
+66.132.195.42
+66.132.195.33
+66.132.195.81
 
 
 
