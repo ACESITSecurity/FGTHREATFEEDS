@@ -13456,8 +13456,8 @@
 66.132.195.0/24
 #October 7 - Hans SDP# 148522 IDS / IPS
 66.132.195.81
-
-
+#October 8 - Hans SDP# 148596 Network Sweep
+27.79.7.67
 
 
 
