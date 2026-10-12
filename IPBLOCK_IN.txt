@@ -13470,10 +13470,10 @@
 #October 10 - Hans SDP# 148871 Network Sweep
 2.57.122.74
 92.62.251.150
-#October 11 - Hans SDP# 148891148891 Network Sweep
+#October 11 - Hans SDP# 148891 Network Sweep
 179.43.150.26
-
-
+#October 11 - Hans SDP# 148912 Network Sweep
+143.208.132.131
 
 
 
