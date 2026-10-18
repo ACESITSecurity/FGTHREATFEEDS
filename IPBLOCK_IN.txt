@@ -13509,6 +13509,10 @@
 62.210.114.99
 #October 16 - Ward Imperva DDOS
 34.158.56.164
+#October 16 - Hans SDP# 149532 Network Sweep
+34.234.96.245
+
+
 
 
 
