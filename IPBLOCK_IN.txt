@@ -13552,6 +13552,6 @@
 194.180.49.220
 212.73.148.19
 212.73.148.41
-#October 22 - Ward SDP# 150162 Network Swee
+#October 22 - Ward SDP# 150162 Network Sweep
 79.124.40.166
 79.124.56.214
