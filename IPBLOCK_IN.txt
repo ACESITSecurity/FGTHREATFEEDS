@@ -13548,16 +13548,10 @@
 91.92.242.142
 #October 21 - Hans SDP# 150004 Network Sweep
 100.53.142.137
-
-
-
-
-
-
-
-
-
-
+#October 22 - Ward MSOC Malicious IP Report
+194.180.49.220
+212.73.148.19
+212.73.148.41
 
 
 
