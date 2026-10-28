@@ -13586,9 +13586,8 @@
 34.205.72.252
 #October 28 - Hans SDP# 150679 Network Sweep
 209.99.190.52
-
-
-
+#October 25 - Ward Imperva Bad IP Reputation
+104.155.231.241
 
 
 
