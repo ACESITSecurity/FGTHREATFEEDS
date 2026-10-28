@@ -13568,6 +13568,8 @@
 #October 25 - Hans SDP# 150404 Network Sweep
 82.204.185.138
 #October 26 - Ward Imperva Incident
+45.148.10.120
+#October 26 - Ward Imperva Incident
 130.12.180.117
 #October 26 - Hans SDP# 150454 Network Sweep
 195.182.16.183
