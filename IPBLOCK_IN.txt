@@ -13590,8 +13590,9 @@
 104.155.231.241
 #October 29 - Ward #150615 Suspicious Email Blocking
 103.77.214.113
-
-
+#October 30 - Hans SDP# 150946 Network Sweep
+193.47.62.20
+194.180.49.38
 
 
 
