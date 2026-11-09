@@ -13639,6 +13639,8 @@
 58.82.133.98
 #November 6 - Hans SDP# 151824 Network Sweep
 93.123.109.19
+#November 6 - Ward SDP# 151892 Network Sweep
+103.91.218.163
 #November 8 - Hans SDP# 152022 Network Sweep
 106.201.241.95
 #November 9 - Hans SDP# 152026 Network Sweep
