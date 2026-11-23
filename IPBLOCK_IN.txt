@@ -13698,6 +13698,34 @@
 54.173.14.54
 #November 21 - Hans SDP# 153343 Network Sweep
 212.73.148.48
+#C2: track.js, card.php, hit.php, html2canvas.min.js (136.113.106.136)
+136.113.106.136
+#iOS router boot.js (34.96.213.201)
+34.96.213.201
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
