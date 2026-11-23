@@ -13702,7 +13702,8 @@
 136.113.106.136
 #iOS router boot.js (34.96.213.201)
 34.96.213.201
-
+#November 22 - Hans SDP# 153370 Network Sweep
+193.90.12.62
 
 
 
